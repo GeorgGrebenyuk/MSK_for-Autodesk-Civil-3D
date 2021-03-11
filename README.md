@@ -5,7 +5,9 @@
 Приведена в отдельном справочном пособии [по ссылке](https://inj9.gitbook.io/msk-for-civil-3d/)
 ## Добавление/использование:
 Лежащие в корне репозитория файлы CSD необходимо переместить в корень системной директории для пользовательских систем координат - следующий путь (содержащий переменную среду - путь до пользовательской папки AppData\Local:
+
 *%LOCALAPPDATA%\Autodesk\User Geospatial Coordinate Systems*
+
 Для удобства, все файлы CSD добавлены в архив, который доступен в корне репозитория [MSK_for-Autodesk-Civil-3D.zip](https://github.com/GeorgGrebenyuk/MSK_for-Autodesk-Civil-3D/raw/master/MSK_for-Autodesk-Civil-3D.zip)
 Вид размещенных файлов, гарантирующий корректную работу библиотеки представлен на ![скриншоте ниже:](/Docs/Screen/Root1.png)
 
