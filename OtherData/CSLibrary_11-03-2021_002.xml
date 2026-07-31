@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<Dictionary version="1.0" xmlns="http://www.osgeo.org/mapguide/coordinatesystem">
+<Dictionary version="1.0">
 
   <ProjectedCoordinateSystem id="Russia-MGGT">
     <Name>Russia-MGGT</Name>
@@ -8827,8 +8827,7 @@
 
   <ProjectedCoordinateSystem id="Russia-MSK52-NN_Town">
     <Name>Russia-MSK52-NN_Town</Name>
-    <Description>Nizhny Novgorod town System
-Variant CPLANELITE</Description>
+    <Description>Nizhny Novgorod town System. Variant CPLANELITE</Description>
     <Authority>-</Authority>
     <AdditionalInformation>
       <ParameterItem type="CsMap">
@@ -22654,8 +22653,7 @@ Variant CPLANELITE</Description>
 
   <ProjectedCoordinateSystem id="Russia-Town_Perm">
     <Name>Russia-Town_Perm</Name>
-    <Description>Town coordinate system Perm
-Official info from administration</Description>
+    <Description>Town coordinate system Perm. Official info from administration</Description>
     <Authority>r00teniy</Authority>
     <AdditionalInformation>
       <ParameterItem type="CsMap">
@@ -22797,8 +22795,7 @@ Official info from administration</Description>
 
   <ProjectedCoordinateSystem id="Ukraine-SK63-X_Zona1">
     <Name>Ukraine-SK63-X_Zona1</Name>
-    <Description>SK-1963 Zona X1 (CM-23.5)
-For Ukraine</Description>
+    <Description>SK-1963 Zona X1 (CM-23.5). For Ukraine</Description>
     <Authority>Not Official</Authority>
     <AdditionalInformation>
       <ParameterItem type="CsMap">
@@ -22862,8 +22859,7 @@ For Ukraine</Description>
 
   <ProjectedCoordinateSystem id="Ukraine-SK63-X_Zona2">
     <Name>Ukraine-SK63-X_Zona2</Name>
-    <Description>SK-1963 Zona X2 (CM-26.5)
-For Ukraine</Description>
+    <Description>SK-1963 Zona X2 (CM-26.5). For Ukraine</Description>
     <Authority>Not Official</Authority>
     <AdditionalInformation>
       <ParameterItem type="CsMap">
@@ -22927,8 +22923,7 @@ For Ukraine</Description>
 
   <ProjectedCoordinateSystem id="Ukraine-SK63-X_Zona3">
     <Name>Ukraine-SK63-X_Zona3</Name>
-    <Description>SK-1963 Zona X3 (CM-29.5)
-For Ukraine</Description>
+    <Description>SK-1963 Zona X3 (CM-29.5). For Ukraine</Description>
     <Authority>Not Official</Authority>
     <AdditionalInformation>
       <ParameterItem type="CsMap">
@@ -22992,8 +22987,7 @@ For Ukraine</Description>
 
   <ProjectedCoordinateSystem id="Ukraine-SK63-X_Zona4">
     <Name>Ukraine-SK63-X_Zona4</Name>
-    <Description>SK-1963 Zona X4 (CM-32.5)
-For Ukraine</Description>
+    <Description>SK-1963 Zona X4 (CM-32.5). For Ukraine</Description>
     <Authority>Not Official</Authority>
     <AdditionalInformation>
       <ParameterItem type="CsMap">
@@ -23057,8 +23051,7 @@ For Ukraine</Description>
 
   <ProjectedCoordinateSystem id="Ukraine-SK63-X_Zona5">
     <Name>Ukraine-SK63-X_Zona5</Name>
-    <Description>SK-1963 Zona X5 (CM-35.5)
-For Ukraine</Description>
+    <Description>SK-1963 Zona X5 (CM-35.5). For Ukraine</Description>
     <Authority>Not Official</Authority>
     <AdditionalInformation>
       <ParameterItem type="CsMap">
@@ -23122,8 +23115,7 @@ For Ukraine</Description>
 
   <ProjectedCoordinateSystem id="Ukraine-SK63-X_Zona6">
     <Name>Ukraine-SK63-X_Zona6</Name>
-    <Description>SK-1963 Zona X6 (CM-38.5)
-For Ukraine</Description>
+    <Description>SK-1963 Zona X6 (CM-38.5). For Ukraine</Description>
     <Authority>Not Official</Authority>
     <AdditionalInformation>
       <ParameterItem type="CsMap">
@@ -23187,8 +23179,7 @@ For Ukraine</Description>
 
   <ProjectedCoordinateSystem id="Ukraine-USK-2000_Zone4">
     <Name>Ukraine-USK-2000_Zone4</Name>
-    <Description>Coordinate system for Ukraine, Zone 4
-(18-24) - degree zone</Description>
+    <Description>Coordinate system for Ukraine, Zone 4 (18-24) - degree zone</Description>
     <Authority>Not Official</Authority>
     <AdditionalInformation>
       <ParameterItem type="CsMap">
@@ -23252,8 +23243,7 @@ For Ukraine</Description>
 
   <ProjectedCoordinateSystem id="Ukraine-USK-2000_Zone5">
     <Name>Ukraine-USK-2000_Zone5</Name>
-    <Description>Coordinate system for Ukraine, Zone 5
-(24-30) - degree zone</Description>
+    <Description>Coordinate system for Ukraine, Zone 5 (24-30) - degree zone</Description>
     <Authority>Not Official</Authority>
     <AdditionalInformation>
       <ParameterItem type="CsMap">
@@ -23317,8 +23307,7 @@ For Ukraine</Description>
 
   <ProjectedCoordinateSystem id="Ukraine-USK-2000_Zone6">
     <Name>Ukraine-USK-2000_Zone6</Name>
-    <Description>Coordinate system for Ukraine, Zone 6
-(30-36) - degree zone</Description>
+    <Description>Coordinate system for Ukraine, Zone 6 (30-36) - degree zone</Description>
     <Authority>Not Official</Authority>
     <AdditionalInformation>
       <ParameterItem type="CsMap">
@@ -23382,8 +23371,7 @@ For Ukraine</Description>
 
   <ProjectedCoordinateSystem id="Ukraine-USK-2000_Zone7">
     <Name>Ukraine-USK-2000_Zone7</Name>
-    <Description>Coordinate system for Ukraine, Zone 7
-(36-42) - degree zone</Description>
+    <Description>Coordinate system for Ukraine, Zone 7 (36-42) - degree zone</Description>
     <Authority>Not Official</Authority>
     <AdditionalInformation>
       <ParameterItem type="CsMap">
