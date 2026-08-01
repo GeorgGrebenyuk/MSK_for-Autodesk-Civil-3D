@@ -424,7 +424,8 @@ Russia-Samara-Alekseev	+	52.03333333333	0	1	300000	-9414.70	49	50	52	53	5044	С�
 Russia-Samara-Volzhsky	+	49.03333333333	0	1	300000	-9414.70	49	51	52	54	5044	Самарская область, Волжский район	Samara region, Volzhsky district	ru;region	MAPINFOW	
 Russia-Pervouralsk	+	60	0	1	43680.37	-6269601.03	59	61	56	58	5044	Городская СК, Первоуральск и Ревда (Свердловская область)	Sverdlovsk region, Pervouralsk, Revda town system	ru;town	MAPINFOW	
 Russia-NizhnyTagil1		60	0	0.99999654	27190.61	-6396025.66	59	61	57	59	5044	Городская СК Нижний Тагил (Свердловская область)	Sverdlovsk region, Nizhny Tagil town system	ru;town	MAPINFOW	
-Russia-Sver-SukhoiLog	+	63	0	1	70760.585	-6299985.25	61	63	56	58	5044	Городская СК Сухой Лог (Свердловская область)	Sverdlovsk region, Sukhoi Log town system	ru;town	MAPINFOW	
+Russia-Sver-SukhoiLog1	+	63	0	1	70760.585	-6299985.25	61	63	56	58	5044	Городская СК Сухой Лог (Свердловская область)	Sverdlovsk region, Sukhoi Log town system	ru;town	MAPINFOW	
+Russia-Sver-SukhoiLog2	+	63	0	1	70760.64	-6299985.17	61	63	56	58	5044	Городская СК Сухой Лог (Свердловская область)	Sverdlovsk region, Sukhoi Log town system	ru;town	MAPINFOW	
 Russia-Sver-VerkhSin		63	0	1.000000040	98115.8	-6411304.11	61	62	57	59	5044	Городская СК п. Верхняя Синячиха (Свердловская область)	Sverdlovsk region, Verkhnyaya Sinyachikha 	ru;town	MAPINFOW	
 Russia-Sver-Alapaevsk1	+	63	0	1	86708.1	-6407633.81	61	63	57	59	5044	Городская СК Алапаевск, вариант 1 (Свердловская область)	Sverdlovsk region, Alapaevsk town system var 1	ru;town	MAPINFOW	
 Russia-Sver-Alapaevsk2		61.706231	0	1.000000040	10000.0	-6417633.81	61	63	57	59	5044	Городская СК Алапаевск, вариант 2 (Свердловская область)	Sverdlovsk region, Alapaevsk town system var 2	ru;town	MAPINFOW	
@@ -439,3 +440,126 @@ Russia-Sver-Monetnyy1	+	60	0	1	-39005.46	-6305008.48	60	61	56	58	5044	Город
 Russia-Sver-Monetnyy2	+	60.05	0	1	-35987.9	-6304978	60	61	56	58	5044	Городская СК Монетный-свх (Свердловская область)	Sverdlovsk region,  Monetnyy town system var 2	ru;town	MAPINFOW	
 Russia-Sver-Losinyy	+	60.05	0	1	-50000	-6330057.63	61	62	57	58	5044	Городская СК Лосиный (Свердловская область)	Sverdlovsk region,  Losinyy town system	ru;town	MAPINFOW	
 Russia-Sver-Rezh	+	60	0	1	-64567.79	-6342655.24	60	62	57	58	5044	Городская СК Реж (Свердловская область)	Sverdlovsk region, Rezh town system	ru;town	MAPINFOW	
+Russia-Sver-Berezovsky	+	60	0	1	0	0	60	62	56	58	5044	Городская СК Березовский (Свердловская область)	Sverdlovsk region, Berezovsky town system	ru;town	MAPINFOW	
+Russia-Sver-Kamyshlov	+	63	0	1	31894.09	-6290987.3	62	64	56	58	5044	Городская СК Камышлов (Свердловская область)	Sverdlovsk region, Kamyshlov town system	ru;town	MAPINFOW	
+Russia-Sver-Kosulino	+	63	0	1	31894.09	-6290987.3	60	62	56	57	5044	Городская СК Косулино (Свердловская область)	Sverdlovsk region, Kosulino town system	ru;town	MAPINFOW	
+Russia-Sver-Karpinsk	+	60	0	1	-108.45	-6600021.17	58	61	59	61	5044	Городская СК Карпинск (Свердловская область)	Sverdlovsk region, Karpinsk town system	ru;town	MAPINFOW	
+Russia-Sver-Ivdeli1	+	60	0	1	-46.89	-6610442.05	58	64	60	63	5044	Городская СК Ивдель (Свердловская область)	Sverdlovsk region, Ivdeli town system	ru;town	MAPINFOW	
+Russia-Sver-Ivdeli2	+	60	0	1	-46.70	-6721018.41	58	64	60	63	5044	Городская СК Ивдель (Свердловская область)	Sverdlovsk region, Ivdeli town system	ru;town	MAPINFOW	
+Russia-Sver-Izumrud	+	60.05	0	1	-73227.56	-6313798.59	61	62	56	58	5044	Городская СК Изумруд (Свердловская область)	Sverdlovsk region, Izumrud town system	ru;town	MAPINFOW	
+Russia-Sver-ZATO	+	60.00	0	1	21.0	-6300000	60	63	56	57	5044	Городская СК пос. ЗАТО (Свердловская область)	Sverdlovsk region, ZATO town system	ru;town	MAPINFOW	
+Russia-Sver-Novourals1	+	60.00	0	1	43142.96	-6298888.15	59	61	57	58	5044	Городская СК Новоуральск (Свердловская область) вар 1	Sverdlovsk region, Novouralsk town system var 1	ru;town	MAPINFOW	
+Russia-Sver-Novourals2	+	60.00	0	1	21.0	-6300000	59	61	57	58	5044	Городская СК Новоуральск (Свердловская область) вар 2	Sverdlovsk region, Novouralsk town system var 2	ru;town	MAPINFOW	
+Russia-Sver-Volchansk	+	60.00	0	1	0	-6600000	59	61	59	61	5044	Городская СК Волчанск (Свердловская область)	Sverdlovsk region, Volchansk town system	ru;town	MAPINFOW	
+Russia-Sver-VerNeyvin	+	60.00	0	1	-3453.69	-6345254.83	59	61	57	58	5044	Городская СК пос. Верх-Нейвинский (Свердловская область)	Sverdlovsk region, Verkh Neyvinsk town system	ru;town	MAPINFOW	
+Russia-HMAO-Kogalym	+	72.05	0	1	-120000	-6901057.63	73	76	61	63	5044	Городская СК Когалым (ХМАО)	HMAO region, Kogalym town system	ru;town	MAPINFOW	
+Russia-Sver-Kachkanar	+	60.00	0	1	32000.00	-6508000.00	59	61	58	60	5044	Городская СК Качканар (Свердловская область)	Sverdlovsk region, Kachkanar town system	ru;town	MAPINFOW	
+Russia-Sver-Mezenskoye	+	60.05	0	1	0	-6211057.63	60	63	56	57	5044	Городская СК Мезенское (Свердловская область)	Sverdlovsk region, Mezenskoye town system	ru;town	MAPINFOW	
+Russia-Sver-Beloyarsk1	+	60.05	0	1	0	-6211057.636	60	63	56	57	5044	Муниципальная СК Белоярского района (Свердловская область)	Sverdlovsk region, Beloyarskiy district system	ru;town	MAPINFOW	
+Russia-Sver-Gagarskiy	+	60.05	0	1	0	-6200000	61	62	56	57	5044	Городская СК Гагарский (Свердловская область)	Sverdlovsk region, Gagarskiy town system	ru;town	MAPINFOW	
+Russia-HMAO-Vysokiy	+	75	0	1	2000	-6710000	75	77	60	62	5044	Городская СК пгт Высокий (ХМАО)	HMAO region, Vysokiy town system	ru;town	MAPINFOW	
+Russia-Sver-Baranchins		60.05	0	1.000034	41975.95	-6433788.51	59	60	58	59	5044	Городская СК пос. Баранчинский (Свердловская область)	Sverdlovsk region, Baranchinskiy town system	ru;town	MAPINFOW	
+Russia-Perm-Aleksandrv	+	57	0	1	0	-6500000	56	59	58	60	5044	Городская СК г.Александровск (Пермский край)	Permsky region, Aleksandrovsk town system	ru;town	MAPINFOW	
+Russia-Sver-Artemovski	+	63	0.999972	1	78578.08	-6238432.59	59	60	58	59	5044	Городская СК Артемовский (Свердловская область)	Sverdlovsk region, Artemovskiy town system	ru;town	MAPINFOW	
+Russia-Sver-Asbest	+	63	0	1	105500	-6289500	61	63	56	58	5044	Городская СК Асбест (Свердловская область)	Sverdlovsk region, Asbest town system	ru;town	MAPINFOW	
+Russia-Sver-Rassokha	+	60.05	0	1	0	-6211057.636	60	62	56	57	5044	Городская СК Рассоха (Свердловская область)	Sverdlovsk region, Rassokha town system	ru;town	MAPINFOW	
+Russia-Sver-Rastushchi	+	60.05	0	1	0	-6000000	60	62	56	57	5044	Городская СК пос. Растущий (Свердловская область)	Sverdlovsk region, Rastushchiy town system	ru;town	MAPINFOW	
+Russia-Sver-Beloyarsk2	+	60.05	0	1	500000	-6000000	60	63	56	57	5044	Муниципальная СК Белоярского района (Свердловская область)	Sverdlovsk region, Beloyarskiy district system	ru;town	MAPINFOW	
+Russia-Sver-Bogdanov1	+	63	0	1	200000	-6008671.82	61	63	56	58	5044	Городская СК Богданович, вар 1 (Свердловская область), от СК 63	Sverdlovsk region, Bogdanovich town system var 1 (SK 63)	ru;town	MAPINFOW	
+Russia-Sver-Bogdanov2	+	63	0	1	60000	-6280000	61	63	56	58	5044	Городская СК Богданович, вар 2 (Свердловская область), от GK зоны 11	Sverdlovsk region, Bogdanovich town system var 2 (GK 11)	ru;town	MAPINFOW	
+Russia-Sver-Bitimka	+	60.05	0	1	100000	-6311057.63 	59	61	56	58	5044	Муниципальная СК Битимка, Верес, Крылас, Кауров (Свердловская область)	Sverdlovsk region, Bitimka and nearest district system	ru;town	MAPINFOW	
+Russia-Sver-Talitsa	+	63	0	1	-13659.24	-6292592.94	62	65	56	58	5044	Городская СК Талица (Свердловская область)	Sverdlovsk region, Talitsa town system	ru;town	MAPINFOW	
+Russia-Sver-Irbit	+	63	0	1	22823.2	-6370346.7	62	64	57	59	5044	Городская СК Ирбит (Свердловская область)	Sverdlovsk region, Irbit town system	ru;town	MAPINFOW	
+Russia-Sver-Kushva1		60	0	1.000003	0.09	-6289423.21	58	61	57	59	5044	Городская СК Кушва (Свердловская область) вар 1	Sverdlovsk region, Kushva town system var 1	ru;town	MAPINFOW	Возможна ошибка в формулировке, перепутаны масштаб и широта
+Russia-Sver-Kushva1	+	60	0	1	0.09	-6289423.54	58	61	57	59	5044	Городская СК Кушва (Свердловская область) вар 2	Sverdlovsk region, Kushva town system var 2	ru;town	MAPINFOW	Возможна ошибка в формулировке, перепутаны масштаб и широта
+Russia-Sver-Bulanash	+	63	0	1	65000	-6239423.64	61	63	57	58	5044	Городская СК Буланаш (Свердловская область)	Sverdlovsk region, Bulanash town system	ru;town	MAPINFOW	Возможна ошибка в формулировке, перепутаны масштаб и широта
+Russia-Sver-NizhnySerg	+	60.0	0	1	55616.07	-6163051.41	59	60	56	57	5044	Городская СК Нижние Серьги (Свердловская область)	Sverdlovsk region, Nizhny Sergi town system	ru;town	MAPINFOW	Возможна ошибка в формулировке, перепутаны масштаб и широта
+Russia-Sver-Mikhailovsk	+	60.0	0	1	71893.25	-6087200.39	58	60	56	57	5044	Городская СК Михайловск (Свердловская область)	Sverdlovsk region, Mikhailovsk town system	ru;town	MAPINFOW	Возможна ошибка в формулировке, перепутаны масштаб и широта
+Russia-Sver-NizhnTura1	+	60.0	0	1	39305.25	-6370480.54	59	61	58	59	5044	Городская СК Нижняя Тура (Свердловская область)	Sverdlovsk region, Nizhnyaya Tura town system var 1	ru;town	MAPINFOW	Возможна ошибка в формулировке, перепутаны масштаб и широта
+Russia-Sver-NizhnTura2	+	60.0	0	1	29137.05	-6488806.70	59	61	58	59	5044	Городская СК Нижняя Тура (Свердловская область)	Sverdlovsk region, Nizhnyaya Tura town system var 2	ru;town	MAPINFOW	Возможна ошибка в формулировке, перепутаны масштаб и широта
+Russia-Sver-NizhnTura3	+	60.05	0	1	32042.17	-6488814.6	59	61	58	59	5044	Городская СК Нижняя Тура, Гирозем (Свердловская область)	Sverdlovsk region, Nizhnyaya Tura town system var 3	ru;town	MAPINFOW	Возможна ошибка в формулировке, перепутаны масштаб и широта
+Russia-Sver-Sosva	+	63	0	1	79002.19	-6551012.59	60	63	58	60	5044	Городская СК Сосьва (Свердловская область)	Sverdlovsk region, Sosva town system	ru;town	MAPINFOW	
+Russia-Sver-Reft	+	60.05	0	1	-100000	-6311057.63	61	63	56	58	5044	Городская СК пос. Рефт (Свердловская область)	Sverdlovsk region, Reft town system	ru;town	MAPINFOW	
+Russia-Sver-Reftinskiy	+	60.05	0	1	-72248.25	-6311666.79	61	63	56	58	5044	Городская СК пгт Рефтинский (Свердловская область)	Sverdlovsk region, Reftinskiy town system	ru;town	MAPINFOW	
+Russia-Sver-Severoural	+	60	0	1	10177.78	-6660824.38	59	61	59	61	5044	Городская СК Североуральск (Свердловская область)	Sverdlovsk region, Severouralsk town system	ru;town	MAPINFOW	
+Russia-Sver-Vostochnyy	+	60.05	0	1	1000.00	-210000.00	61	63	58	60	5044	Городская СК пос. Восточный (Свердловская область)	Sverdlovsk region, Vostochnyy town system	ru;town	MAPINFOW	
+Russia-Perm-Gornozavod		57	0	0.999969	-64000	6458000	57	60	57	60	5044	Городская СК г.Горнозаводск (Пермский край)	Permsky region, Gornozavodsk town system	ru;town	MAPINFOW	
+Russia-Sver-Shameyskiy	+	60.05	0	1	-72987.10	-6314016.26	61	62	57	58	5044	Городская СК пос. Шамейский (Свердловская область)	Sverdlovsk region, Shameyskiy town system	ru;town	MAPINFOW	
+Russia-Sver-Chamara	+	57	0	1	-61110.15	-6343230.36	57	59	56	58	5044	Городская СК пос. Шамары (Свердловская область)	Sverdlovsk region, Chamara town system	ru;town	MAPINFOW	
+Russia-Sver-Staroutkin	+	60.05	0	1	100000	-6311057.63	58	60	57	58	5044	Городская СК Староуткинск (Свердловская область)	Sverdlovsk region, Staroutkin town system	ru;town	MAPINFOW	
+Russia-Sver-SosnovBor	+	63	0	1	53892.22	-6350923.64	62	63	57	58	5044	Городская СК Сосновый Бор (Свердловская область)	Sverdlovsk region, Sosnovi Bor town system	ru;town	MAPINFOW	
+Russia-Sver-Sosnovskii	+	60.05	0	1	-60349.80	-6210670.59	61	63	56	58	5044	Городская СК Сосновский (Свердловская область)	Sverdlovsk region, Sosnovskii town system	ru;town	MAPINFOW	
+Russia-Sver-Pisanes	+	63	0	1	61580.51	-6350900.65	61	63	57	58	5044	Городская СК Писанец (Свердловская область)	Sverdlovsk region, Pisanes town system	ru;town	MAPINFOW	
+Russia-YNAO-Noiabrsk	+	75	0	1	50000.0	-6900000.0	75	76	63	64	5044	Городская СК Ноябрьск (ЯНАО)	YNAO region, Noiabrsk town system	ru;town	MAPINFOW	
+Russia-Sver-Nevyansk1	+	60.	0	1	0	-6308671.56	59	62	56	58	5044	Городская СК Невьянск (Свердловская область) вар 1	Sverdlovsk region, Nevyansk town system var 1	ru;town	MAPINFOW	
+Russia-Sver-Nevyansk2	+	60.	0	1	-1037.08	-6307197.53	59	62	56	58	5044	Городская СК Невьянск (Свердловская область) вар 2	Sverdlovsk region, Nevyansk town system var 2	ru;town	MAPINFOW	
+Russia-Sver-Murzinka	+	60.00	0	1	-3033.93	-6311094.94	60	61	57	58	5044	Городская СК Мурзинка (Свердловская область)	Sverdlovsk region, Murzinka town system	ru;town	MAPINFOW	
+Russia-Sver-Mostovskoi	+	60.00	0	1	-3033.93	-6311094.94	60	61	57	58	5044	Городская СК с. Мостовское (Свердловская область)	Sverdlovsk region, Mostovskoi town system	ru;town	MAPINFOW	
+Russia-Sver-Luch	+	60.05	0	1	-60329.012	-6210661.47	60	61	57	58	5044	Городская СК п.Луч (Свердловская область)	Sverdlovsk region, Luch town system	ru;town	MAPINFOW	
+Russia-Sver-Malicheva	+	63	0	1	105739.52	-6314115.74	61	62	57	58	5044	Городская СК п.Малышева (Свердловская область)	Sverdlovsk region, Malicheva town system	ru;town	MAPINFOW	
+Russia-Sver-Kuryi	+	60.05	0	1	-100000.00	-6311057.63	61	63	56	58	5044	Городская СК Курьи (Свердловская область)	Sverdlovsk region, Kuryi Log town system	ru;town	MAPINFOW	
+Russia-Sver-Krasnogvar	+	63	0	1	96992.849	-6311024.767	62	63	57	58	5044	Городская СК Красногвардейский (Свердловская область)	Sverdlovsk region, Krasnogvardeisk town system	ru;town	MAPINFOW	
+Russia-Sver-Krasnotur	+	60	0	1	2191.48	-6612314.07	58	61	59	61	5044	Городская СК Краснотурьинск (Свердловская область)	Sverdlovsk region, Krasnoturinsk town system	ru;town	MAPINFOW	
+Russia-Sver-Degtarsk	+	60	0	1	0	0	59	61	56	57	5044	Городская СК Дегтярск (Свердловская область)	Sverdlovsk region, Degtarsk town system	ru;town	MAPINFOW	
+Russia-Sver-VerkhTagil	+	60.00	0	1	15999.82	-6299656.43	59	61	57	58	5044	Городская СК Верхний Тагил (Свердловская область)	Sverdlovsk region, Verkhny Tagil town system	ru;town	MAPINFOW	
+Russia-Sver-Polunochn1	+	60	0	1	1.03	-6700001.73	58	64	60	63	5044	Городская СК Полуночное (Свердловская область)	Sverdlovsk region, Polunochnoe town system	ru;town	MAPINFOW	
+Russia-Sver-Polunochn2	+	60.05	0	1	2717.83	-6699986.98	58	64	60	63	5044	Городская СК Полуночное (Свердловская область), от СК 63-1	Sverdlovsk region, Polunochnoe town system	ru;town	MAPINFOW	
+Russia-Sver-KamUralls1		61.9166667	0	1.0000267	0	0	61	63	56	57	5044	Городская СК Каменск Уральский (Свердловская область) вар 1	Sverdlovsk region, Kamensk-Uralsky town system var 1	ru;town	MAPINFOW	
+Russia-Sver-KamUralls2	+	61.990652	0	1	0	0	61	63	56	57	5044	Городская СК Каменск Уральский (Свердловская область) вар 2	Sverdlovsk region, Kamensk-Uralsky town system var 2	ru;town	MAPINFOW	
+Russia-Sver-Serov		60.00	0	1.00000003	-13972.24	-6479266.84	59	62	59	61	5044	Городская СК Серов (Свердловская область)	Sverdlovsk region, Serov town system	ru;town	MAPINFOW	Возможна ошибка в формулировке, перепутаны масштаб и широта
+Russia-Sver-NovaLala	+	60.00	0	1	17415.04	-6377551.47	60	62	58	60	5044	Городская СК Новая Ляля (Свердловская область)	Sverdlovsk region, Nova Lala town system	ru;town	MAPINFOW	Возможна ошибка в формулировке, перепутаны масштаб и широта
+Russia-Sver-Krasnoufim	+	57	0	1	-27928.24	-6258594.63	57	59	56	58	5044	Городская СК Красноуфимск (Свердловская область)	Sverdlovsk region, Krasnoufimsk town system	ru;town	MAPINFOW	
+Russia-Sver-Karpuninsk	+	63.05	0	1	0	0	61	63	58	59	5044	Городская СК Карпунинский (Свердловская область)	Sverdlovsk region, Karpuninskii town system	ru;town	MAPINFOW	
+Russia-PermDistricts	+	57	0	1	387632	-5957156	51	61	55	62	5044	Районная СК Пермской области (Пермский край)	Permsky region, districts CS	ru;town	MAPINFOW	Возможна ошибка в формулировке, перепутаны масштаб и широта
+Russia-Perm-Berezniki	+	57	0	1	387632	-5957156	56	58	59	60	5044	Городская СК Березники (Пермский край)	Permsky region, Berezniki town system	ru;town	MAPINFOW	Возможна ошибка в формулировке, перепутаны масштаб и широта
+Russia-Sver-AjtiSagra1		60.00	0	1.000034	-1037.08	-6307197.53	60	61	56	58	5044	Городская СК п. Аять, Сагра (Свердловская область) вар 1	Sverdlovsk region, Ayat, Sagra town system var 1	ru;town	MAPINFOW	
+Russia-Sver-AjtiSagra1		60.00	0	1.000034	-946.41	-6307221.53	60	61	56	58	5044	Городская СК п. Аять, Сагра (Свердловская область) вар 2	Sverdlovsk region, Ayat, Sagra town system var 2	ru;town	MAPINFOW	
+Russia-HMAO-Samotlor1	+	14.7167	0	1	75000000	-1000000	74	77	60	62	5044	Местная СК Самотлор (ХМАО) Зона 1	HMAO region, Ayat, Samotlor Zona 1	ru;town	MAPINFOW	
+Russia-HMAO-Samotlor2	+	78.05	0	1	150000	0	74	77	60	62	5044	Местная СК Самотлор (ХМАО) Зона 2	HMAO region, Ayat, Samotlor Zona 2	ru;town	MAPINFOW	
+Russia-HMAO-Samotlor3	+	61.0667	0	1	-50	0	74	77	60	62	5044	Местная СК Самотлор (ХМАО) Зона 3	HMAO region, Ayat, Samotlor Zona 3	ru;town	MAPINFOW	
+Russia-YNAO-Salekhard	+	66.0	0	1	82641.75	-7272028.23	65	68	66	68	5044	Городская СК Салехард (ЯНАО)	YNAO region, Ayat, Salekhard town system	ru;town	MAPINFOW	
+Russia-YNAO-Labytnangi	+	66.0	0	1	-17358.13	-7372028.20	65	68	66	68	5044	Городская СК Лабытнанги (ЯНАО)	YNAO region, Ayat, Labytnangi town system	ru;town	MAPINFOW	
+Russia-HMAO-Nizhnevart	+	78.05	0	1	101975.249	-6739356.895	74	77	60	62	5044	Городская СК Нижневартовск (ХМАО)	HMAO region, Nizhnevartovsk town system	ru;town	MAPINFOW	
+Russia-Tyum-Tobolsk79	+	69.00	0	1	54158.95	-6332171.34	67	70	57	59	5044	Городская СК Тобольск-79 (Тюменская область)	Tyumen region, Tobolsk-79 town system	ru;town	MAPINFOW	Возможна ошибка в формулировке, перепутаны масштаб и широта
+Russia-Tyum-Tobolsk89	+	69.00	0	1	64158.95	-6442747.70	67	70	57	59	5044	Городская СК Тобольск-89 (Тюменская область)	Tyumen region, Tobolsk-89 town system	ru;town	MAPINFOW	Возможна ошибка в формулировке, перепутаны масштаб и широта
+Russia-Tyumen	+	66.00	0	1	44486.26	-6209923.11	64	67	56	58	5044	Городская СК Тюмень (Тюменская область)	Tyumen region, Tyumen town system	ru;town	MAPINFOW	Возможна ошибка в формулировке, перепутаны масштаб и широта
+Russia-TyumenDistrict	+	65.451255555556	0	1	41249.96	-6290365.8	64	67	56	58	5044	Районная СК Тюменский район (Тюменская область)	Tyumen region, Tyumen district system	ru;town	MAPINFOW	
+Russia-YNAO-Muravlenko	+	75.05	0	1	100000.000	-7011057.630	74	75	63	64	5044	Городская СК Муравленко (ЯНАО)	YNAO region, Muravlenko town system	ru;town	MAPINFOW	
+Russia-HMAO-Nefteyugan		72.0	0	0.999995	-2706.43	-6711038.06	69	74	59	62	5044	Городская СК Нефтеюганск (ХМАО)	HMAO region, Nefteyugansk town system	ru;town	MAPINFOW	
+Russia-YNAO-Korotchaev	+	78.05	0	1	50000	-7261057.63	77	79	65	67	5044	Городская СК Коротчаево (ЯНАО)	YNAO region, Korotchaevo town system	ru;town	MAPINFOW	
+Russia-HMAO-Langepas	+	75.00	0	1	0	-6700000	74	76	61	62	5044	Городская СК Лангепас (ХМАО)	HMAO region, Langepas town system	ru;town	MAPINFOW	
+Russia-YNAO-Shchuchye	+	69	0	1	25525.27	-7451778.51	68	69	67	68	5044	Городская СК п. Щучье (ЯНАО)	YNAO region, Shchuchye town system	ru;town	MAPINFOW	
+Russia-YNAO-Beloyarsk	+	69	0	1	50195.78	-7408592.13	67	69	66	68	5044	Городская СК Белоярск (ЯНАО)	YNAO region, Beloyarsk town system	ru;town	MAPINFOW	
+Russia-YNAO-Katravozh	+	66	0	1	7227.65	-7346527.15	65	67	66	67	5044	Городская СК Катравож (ЯНАО)	YNAO region, Katravozh town system	ru;town	MAPINFOW	
+Russia-YNAO-Laborovaya	+	69	0	1	72390.32	-7494754.58	67	68	67	68	5044	Городская СК Лаборовая (ЯНАО)	YNAO region, Laborovaya town system	ru;town	MAPINFOW	
+Russia-YNAO-Khalaspug	+	69	0	1	75272.42	-7394943.02	67	68	66	67	5044	Городская СК Халасьпугор (ЯНАО)	YNAO region, Khalaspugor town system	ru;town	MAPINFOW	
+Russia-YNAO-ZelonyyYar	+	66	0	1	-46540.97	-7349202.54	67	68	66	67	5044	Городская СК Зелёный Яр (ЯНАО)	YNAO region, Zelonyy Yar town system	ru;town	MAPINFOW	
+Russia-YNAO-Chapayevsk	+	69	0	1	59204.5	-7369506.82	67	69	66	67	5044	Городская СК пос. Чапаевск (ЯНАО)	YNAO region, Chapayevsk town system	ru;town	MAPINFOW	
+Russia-YNAO-Zapolyarny	+	72.05	0	1	0	-7311057.63	73	74	66	67	5044	Городская СК пос. Заполярный (ЯНАО)	YNAO region, Zapolyarnyy town system	ru;town	MAPINFOW	
+Russia-YNAO-Vylposl	+	66	0	1	-44034.32	-7385293	67	68	66	67	5044	Городская СК пос. Вылпосл (ЯНАО)	YNAO region, Vylposl town system	ru;town	MAPINFOW	
+Russia-YNAO-Longyugan	+	72	0	1	59500	-7180500	70	72	64	65	5044	Городская СК пос. Лонгюган (ЯНАО)	YNAO region, Longyugan town system	ru;town	MAPINFOW	
+Russia-YNAO-Yagelnyy	+	72	0	1	-4169.04	-7163331.55	72	73	64	65	5044	Городская СК пос. Ягельный (ЯНАО)	YNAO region, Yagelnyy town system	ru;town	MAPINFOW	
+Russia-YNAO-Panhody	+	72.05	0	1	-100000	-7211057.63	74	75	65	66	5044	Городская СК Пангоды (ЯНАО)	YNAO region, Panhody town system	ru;town	MAPINFOW	
+Russia-YNAO-Nadym	+	64.56666666667	0	1	-355001.39	-7282993.68	72	74	65	66	5044	Городская СК Надым (ЯНАО)	YNAO region, Nadym town system	ru;town	MAPINFOW	
+Russia-Bash-Iglinsky	+	58.03333333333	0	1	2300000	-5409414.70	50	65	50	58	5044	Районная СК Иглинского района (Башкортостан)	Bashkortostan region, Iglinsky district system	ru;region	MAPINFOW	
+Russia-Bash-Burzyansky	+	58.03333333333	0	1	100000	-5809414.7	50	65	50	58	5044	Районная СК Бурзянского района (Башкортостан)	Bashkortostan region, Burzyansky district system	ru;region	MAPINFOW	
+Russia-Bash-Belokatays	+	58.03333333333	0	1	0	-5809414.7	50	65	50	58	5044	Районная СК Белокатайского района (Башкортостан)	Bashkortostan region, Belokatayskiy district system	ru;region	MAPINFOW	
+Russia-Bash-Duvansky	+	58.03333333333	0	1	100000	-6109414.7	50	65	50	58	5044	Районная СК Дуванского района (Башкортостан)	Bashkortostan region, Duvansky district system	ru;region	MAPINFOW	
+Russia-Bash-Kiginsky	+	58.03333333333	0	1	0	-6109414.7	50	65	50	58	5044	Районная СК Кигинского района (Башкортостан)	Bashkortostan region, Kiginsky district system	ru;region	MAPINFOW	
+Russia-Bash-Mechetlins	+	58.03333333333	0	1	200000	-6109414.7	50	65	50	58	5044	Районная СК Мечетлинского района (Башкортостан)	Bashkortostan region, Mechetlinsky district system	ru;region	MAPINFOW	
+Russia-Bash-Salavatsky	+	58.03333333333	0	1	39000	-6082413.7	50	65	50	58	5044	Районная СК Салаватского района (Башкортостан)	Bashkortostan region, Salavatsky district system	ru;region	MAPINFOW	
+Russia-Krasnodar1	+	39	0	1	21800	-4974500	38	40	44	46	5044	Городская СК Краснодар (Краснодарский край) вар 1	Krasnodarsky region, Krasnodar town system var 1	ru;town	MAPINFOW	
+Russia-Krasnodar2	+	39	0	1	21800.013	 -4974499.820	38	40	44	46	5044	Городская СК Краснодар (Краснодарский край) вар 2	Krasnodarsky region, Krasnodar town system var 2	ru;town	MAPINFOW	
+Russia-Krasnodar3	+	39	0	1	21799.995	-4974499.819	38	40	44	46	5044	Городская СК Краснодар (Краснодарский край) вар 2	Krasnodarsky region, Krasnodar town system var 2	ru;town	MAPINFOW	
+Russia-Krasn-Novoross	+	39	0	1	117000	-4945000	37	38	44	45	5044	Городская СК Новороссийск (Краснодарский край)	Krasnodarsky region, Novorossiysk town system	ru;town	MAPINFOW	
+Russia-Krasn-Sochi1	+	39	0	1	7.995	-4784572.808	39	40	43	44	5044	Городская СК Сочи (Краснодарский край) вар 1	Krasnodarsky region, Sochi town system var 1	ru;town	MAPINFOW	
+Russia-Krasn-Sochi2	+	39	0	1	4.295	-4784578.384	39	40	43	44	5044	Городская СК Сочи (Краснодарский край) вар 2	Krasnodarsky region, Sochi town system var 2	ru;town	MAPINFOW	
+Russia-Krasnoyarsk	+	93	0	1	54304.47	-6196680.59	92	94	55	57	5044	Городская СК Красноярск (Красноярский край) 	Krasnoyarsky region, Krasnoyarsk town system	ru;town	MAPINFOW	
+Russia-Krasy-Cs164-1	+	84	0	1	86209.80	-6542783.50	67	129	43	83	5044	Районная СК 164-1 (Красноярский край) 	Krasnoyarsky region, district system 164-1	ru;region	MAPINFOW	
+Russia-Krasy-Cs164-2	+	84	0	1	86269.30	-6542783.50	67	129	43	83	5044	Районная СК 164-2 (Красноярский край) 	Krasnoyarsky region, district system 164-2	ru;region	MAPINFOW	
+Russia-Krasy-Cs165	+	87	0	1	105295.80	-5652185.00	67	129	43	83	5044	Районная СК 165 (Красноярский край) 	Krasnoyarsky region, district system 165	ru;region	MAPINFOW	
+Russia-Krasy-Cs166	+	90	0	1	107543.30	-5540944.50	67	129	43	83	5044	Районная СК 166 (Красноярский край) 	Krasnoyarsky region, district system 166	ru;region	MAPINFOW	
+Russia-Krasy-Cs167	+	93	0	1	106797.80	-5578022.50	67	129	43	83	5044	Районная СК 167 (Красноярский край) 	Krasnoyarsky region, district system 167	ru;region	MAPINFOW	
+Russia-Krasy-Cs167	+	96	0	1	108285.20	-5503868.60	67	129	43	83	5044	Районная СК 168 (Красноярский край) 	Krasnoyarsky region, district system 168	ru;region	MAPINFOW	
+Russia-Krasy-Cs169	+	99	0	1	117308.60	-5503868.60	67	129	43	83	5044	Районная СК 169 (Красноярский край) 	Krasnoyarsky region, district system 169	ru;region	MAPINFOW	
+Russia-Prim-Nakhodka	+	133.71666666666	0	1	5300000	-16586.44	131	135	42	44	5044	Городская СК Находка (Приморский край)	Promorsky region, Nakhodka town system	ru;town	MAPINFOW	
