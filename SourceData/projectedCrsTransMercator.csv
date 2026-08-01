@@ -96,6 +96,7 @@ Russia-MSK32-Zona2	+	35.48333333333	0	1	2250000	-5412900.56	30	38	51	55	5044	MSK
 Russia-MSK33-Zona1	+	38.55	0	1	1250000	-5814743.504	36	44	53	58	5043	MSK-33 Владимирская область	Vladimir region MSK-33 Zona 1 	ru;region		
 Russia-MSK33-Zona2	+	41.55	0	1	2250000	-5814743.504	36	44	53	58	5043	MSK-33 Владимирская область	Vladimir region MSK-33 Zona 2 	ru;region		
 Russia-MSK33-Zona3	+	44.55	0	1	3250000	-5814743.504	36	44	53	58	5043	MSK-33 Владимирская область	Vladimir region MSK-33 Zona 3	ru;region		
+Russia-MSK33-SK95	+	39	0	1	134156.988	-6032524.376	36	44	53	58	5043	MSK-33 Владимирская область (от СК 95)	Vladimir region MSK-33 (from SK 95)	ru;region	MAPINFOW	
 Russia-MSK34-Zona1	+	43.05	0	1	1300000	-4914743.504	41	48	46	52	5044	MSK-34 Волгоградская область	Volgograd region MSK-34 Zona 1 	ru;region		
 Russia-MSK34-Zona2	+	46.05	0	1	2300000	-4914743.504	41	48	46	52	5044	MSK-34 Волгоградская область	Volgograd region MSK-34 Zona 2 	ru;region		
 Russia-MSK35-Zona1	+	35.55	0	1	1250000	-6214743.504	34	48	57	63	5044	MSK-35 Вологодская область	Vologda region MSK-35 Zona 1 	ru;region		
@@ -208,6 +209,7 @@ Russia-MSK70-Zona5	+	86.73333333333	0	1	5250000	-5912900.566	73	91	55	62	5044	MS
 Russia-MSK70-Zona6	+	89.73333333333	0	1	6250000	-5912900.566	73	91	55	62	5044	MSK-70 Томская область	Tomsk region MSK-70 Zona 6	ru;region		
 Russia-MSK71-Zona1	+	35.48333333333	0	1	1250000	-5612900.563	35	40	52	56	5044	MSK-71 Тульская область	Tula region MSK-71 Zona 1 	ru;region		
 Russia-MSK71-Zona2	+	38.48333333333	0	1	2250000	-5612900.563	35	40	52	56	5044	MSK-71 Тульская область	Tula region MSK-71 Zona 2 	ru;region		
+Russia-MSK71-SK95	+	37.427222222222	0	1	250000	-5263444.764	35	40	52	56	5044	MSK-71 Тульская область (от СК-95)	Tula region MSK-71 (from SK-95)	ru;region	MAPINFOW	
 Russia-MSK72-Zona1-1.5G	+	66.08333333	0	1	1500000	-6000000	64	77	54	61	5044	MSK-72 Тюменская область	Tyumen region MSK-72 Zona 1 (1.5 gradus zona)	ru;region		
 Russia-MSK72-Zona1-3G	+	63.05	0	1	1500000	-5811057.63	64	77	54	61	5044	MSK-72 Тюменская область	Tyumen region MSK-72 Zona 1 (3 gradus zona)	ru;region		
 Russia-MSK72-Zona1-6G	+	63.05	0	1	1500000	-5811057.63	64	77	54	61	5044	MSK-72 Тюменская область	Tyumen region MSK-72 Zona 1 (6 gradus zona)	ru;region		
