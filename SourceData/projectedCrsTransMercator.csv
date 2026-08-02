@@ -268,7 +268,7 @@ Russia-MSK66-Losinyy	+	60.05	0	1	-50000	-6330057.63	61	62	57	58	5044	Город�
 Russia-MSK66-Luch	+	60.05	0	1	-60329.012	-6210661.47	60	61	57	58	5044	Городская СК п.Луч (Свердловская область)	Sverdlovsk region, Luch town system	ru;town	MAPINFOW	
 Russia-MSK66-Malicheva	+	63	0	1	105739.52	-6314115.74	61	62	57	58	5044	Городская СК п.Малышева (Свердловская область)	Sverdlovsk region, Malicheva town system	ru;town	MAPINFOW	
 Russia-MSK66-Mezenskoy	+	60.05	0	1	0	-6211057.63	60	63	56	57	5044	Городская СК Мезенское (Свердловская область)	Sverdlovsk region, Mezenskoye town system	ru;town	MAPINFOW	
-Russia-MSK66-Mikhailovsk	+	60.0	0	1	71893.25	-6087200.39	58	60	56	57	5044	Городская СК Михайловск (Свердловская область)	Sverdlovsk region, Mikhailovsk town system	ru;town	MAPINFOW	Возможна ошибка в формулировке, перепутаны масштаб и широта
+Russia-MSK66-Mikhailov	+	60.0	0	1	71893.25	-6087200.39	58	60	56	57	5044	Городская СК Михайловск (Свердловская область)	Sverdlovsk region, Mikhailovsk town system	ru;town	MAPINFOW	Возможна ошибка в формулировке, перепутаны масштаб и широта
 Russia-MSK66-Monetnyy1	+	60	0	1	-39005.46	-6305008.48	60	61	56	58	5044	Городская СК Монетный-УТИГГН (Свердловская область)	Sverdlovsk region,  Monetnyy town system var 1	ru;town	MAPINFOW	
 Russia-MSK66-Monetnyy2	+	60.05	0	1	-35987.9	-6304978	60	61	56	58	5044	Городская СК Монетный-свх (Свердловская область)	Sverdlovsk region,  Monetnyy town system var 2	ru;town	MAPINFOW	
 Russia-MSK66-Mostovskoi	+	60.00	0	1	-3033.93	-6311094.94	60	61	57	58	5044	Городская СК с. Мостовское (Свердловская область)	Sverdlovsk region, Mostovskoi town system	ru;town	MAPINFOW	
@@ -311,7 +311,7 @@ Russia-MSK66-VerkhSin		63	0	1.000000040	98115.8	-6411304.11	61	62	57	59	5044	Г�
 Russia-MSK66-VerkhTagil	+	60.00	0	1	15999.82	-6299656.43	59	61	57	58	5044	Городская СК Верхний Тагил (Свердловская область)	Sverdlovsk region, Verkhny Tagil town system	ru;town	MAPINFOW	
 Russia-MSK66-VerNeyvin	+	60.00	0	1	-3453.69	-6345254.83	59	61	57	58	5044	Городская СК пос. Верх-Нейвинский (Свердловская область)	Sverdlovsk region, Verkh Neyvinsk town system	ru;town	MAPINFOW	
 Russia-MSK66-Volchansk	+	60.00	0	1	0	-6600000	59	61	59	61	5044	Городская СК Волчанск (Свердловская область)	Sverdlovsk region, Volchansk town system	ru;town	MAPINFOW	
-Russia-MSK66-Vostochnyy	+	60.05	0	1	1000.00	-210000.00	61	63	58	60	5044	Городская СК пос. Восточный (Свердловская область)	Sverdlovsk region, Vostochnyy town system	ru;town	MAPINFOW	
+Russia-MSK66-Vostochny	+	60.05	0	1	1000.00	-210000.00	61	63	58	60	5044	Городская СК пос. Восточный (Свердловская область)	Sverdlovsk region, Vostochnyy town system	ru;town	MAPINFOW	
 Russia-MSK66-ZATO	+	60.00	0	1	21.0	-6300000	60	63	56	57	5044	Городская СК пос. ЗАТО (Свердловская область)	Sverdlovsk region, ZATO town system	ru;town	MAPINFOW	
 Russia-MSK66-Zona1	+	60.05	0	1	1500000	-5911057.63	56	68	55	62	5044	MSK-66 Свердловская область	Sverdlovsk region MSK-66 Zona 1	ru;region		
 Russia-MSK66-Zona1-6d	+	60.05	0	1	1500000	-5911057.63	56	68	55	62	5044	MSK-66 Свердловская область	Sverdlovsk region MSK-66 Zona 1 (6 gradus zona)	ru;region		
