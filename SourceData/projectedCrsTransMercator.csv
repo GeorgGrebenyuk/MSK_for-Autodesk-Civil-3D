@@ -729,13 +729,47 @@ Russia-SK63-ZonaV3	+	55.0333333333333	0	1	3300000	-9414.7	46	72	49	57	1267	Си�
 Russia-SK63-ZonaV4	+	58.0333333333333	0	1	4300000	-9414.7	46	72	49	57	1267	Система 1963 года, 3 градусная зона, район V	SK-1963 Zona V4 (CM-58.03)	ussr		
 Russia-SK63-ZonaV5	+	61.0333333333333	0	1	5300000	-9414.7	46	72	49	57	1267	Система 1963 года, 3 градусная зона, район V	SK-1963 Zona V5 (CM-61.03)	ussr		
 Russia-SK63-ZonaV6	+	64.0333333333333	0	1	6300000	-9414.7	46	72	49	57	1267	Система 1963 года, 3 градусная зона, район V	SK-1963 Zona V6 (CM-64.03)	ussr		
-Ukraine-SK63-X-Zona1		23.5	0.0833333333333333	1	1300000	0	24	43	38	52	1267	Система 1963 года, Украина, 3 градусная зона, район X	SK-1963 Zona X1 (CM-23.5). For Ukraine	ua		
-Ukraine-SK63-X-Zona2		26.5	0.0833333333333333	1	2300000	0	24	43	38	52	1267	Система 1963 года, Украина, 3 градусная зона, район X	SK-1963 Zona X2 (CM-26.5). For Ukraine	ua		
-Ukraine-SK63-X-Zona3		29.5	0.0833333333333333	1	3300000	0	24	43	38	52	1267	Система 1963 года, Украина, 3 градусная зона, район X	SK-1963 Zona X3 (CM-29.5). For Ukraine	ua		
-Ukraine-SK63-X-Zona4		32.5	0.0833333333333333	1	4300000	0	24	43	38	52	1267	Система 1963 года, Украина, 3 градусная зона, район X	SK-1963 Zona X4 (CM-32.5). For Ukraine	ua		
-Ukraine-SK63-X-Zona5		35.5	0.0833333333333333	1	5300000	0	24	43	38	52	1267	Система 1963 года, Украина, 3 градусная зона, район X	SK-1963 Zona X5 (CM-35.5). For Ukraine	ua		
-Ukraine-SK63-X-Zona6		38.5	0.0833333333333333	1	6300000	0	24	43	38	52	1267	Система 1963 года, Украина, 3 градусная зона, район X	SK-1963 Zona X6 (CM-38.5). For Ukraine	ua		
-Ukraine-USK-2000-Zone4		21	0	1	4500000	0	21	42	44	53	Ukraine-USK-2000	Система 1963 года, Украина, 6 градусная зона, Номер 4	Coordinate system for Ukraine, Zone 4 (18-24) - degree zone	ua		
-Ukraine-USK-2000-Zone5		27	0	1	5500000	0	21	42	44	53	Ukraine-USK-2000	Система 1963 года, Украина, 6 градусная зона, Номер 5	Coordinate system for Ukraine, Zone 5 (24-30) - degree zone	ua		
-Ukraine-USK-2000-Zone6		33	0	1	6500000	0	21	42	44	53	Ukraine-USK-2000	Система 1963 года, Украина, 6 градусная зона, Номер 6	Coordinate system for Ukraine, Zone 6 (30-36) - degree zone	ua		
-Ukraine-USK-2000-Zone7		39	0	1	7500000	0	21	42	44	53	Ukraine-USK-2000	Система 1963 года, Украина, 6 градусная зона, Номер 7	Coordinate system for Ukraine, Zone 7 (36-42) - degree zone	ua		
+UKR-SK63-X-Zona1		23.5	0.0833333333333333	1	1300000	0	24	43	38	52	1267	Система 1963 года, Украина, 3 градусная зона, район X	SK-1963 Zona X1 (CM-23.5). For Ukraine	ua		
+UKR-SK63-X-Zona2		26.5	0.0833333333333333	1	2300000	0	24	43	38	52	1267	Система 1963 года, Украина, 3 градусная зона, район X	SK-1963 Zona X2 (CM-26.5). For Ukraine	ua		
+UKR-SK63-X-Zona3		29.5	0.0833333333333333	1	3300000	0	24	43	38	52	1267	Система 1963 года, Украина, 3 градусная зона, район X	SK-1963 Zona X3 (CM-29.5). For Ukraine	ua		
+UKR-SK63-X-Zona4		32.5	0.0833333333333333	1	4300000	0	24	43	38	52	1267	Система 1963 года, Украина, 3 градусная зона, район X	SK-1963 Zona X4 (CM-32.5). For Ukraine	ua		
+UKR-SK63-X-Zona5		35.5	0.0833333333333333	1	5300000	0	24	43	38	52	1267	Система 1963 года, Украина, 3 градусная зона, район X	SK-1963 Zona X5 (CM-35.5). For Ukraine	ua		
+UKR-SK63-X-Zona6		38.5	0.0833333333333333	1	6300000	0	24	43	38	52	1267	Система 1963 года, Украина, 3 градусная зона, район X	SK-1963 Zona X6 (CM-38.5). For Ukraine	ua		
+UKR-USK2000-Zone4	+	21	0	1	4500000	0	21	42	44	53	Ukraine-USK-2000	Система 1963 года, Украина, 6 градусная зона, Номер 4	Coordinate system for Ukraine, Zone 4 (18-24) - degree zone	ua		
+UKR-USK2000-Zone5	+	27	0	1	5500000	0	21	42	44	53	Ukraine-USK-2000	Система 1963 года, Украина, 6 градусная зона, Номер 5	Coordinate system for Ukraine, Zone 5 (24-30) - degree zone	ua		
+UKR-USK2000-Zone6	+	33	0	1	6500000	0	21	42	44	53	Ukraine-USK-2000	Система 1963 года, Украина, 6 градусная зона, Номер 6	Coordinate system for Ukraine, Zone 6 (30-36) - degree zone	ua		
+UKR-USK2000-Zone7	+	39	0	1	7500000	0	21	42	44	53	Ukraine-USK-2000	Система 1963 года, Украина, 6 градусная зона, Номер 7	Coordinate system for Ukraine, Zone 7 (36-42) - degree zone	ua		
+UKR-USK2000-Zone7-CM21	+	21	0	1	300000	0	21	42	44	53	Ukraine-USK-2000-2	Украина, УСК-2000, (CM 21.0), зона 7. 3 градусная зона 	Ukraine, USK-2000 (CM 21.0), zone 7. 3 degree	ua	https://github.com/SPoslavskyi/USK2000	
+UKR-USK2000-Zone8-CM24	+	24	0	1	300000	0	21	42	44	53	Ukraine-USK-2000-2	Украина, УСК-2000, (CM 24.0), зона 8. 3 градусная зона 	Ukraine, USK-2000 (CM 24.0), zone 8. 3 degree	ua	https://github.com/SPoslavskyi/USK2000	
+UKR-USK2000-Zone9-CM27	+	27	0	1	300000	0	21	42	44	53	Ukraine-USK-2000-2	Украина, УСК-2000, (CM 27.0), зона 9. 3 градусная зона 	Ukraine, USK-2000 (CM 27.0), zone 9. 3 degree	ua	https://github.com/SPoslavskyi/USK2000	
+UKR-USK2000-Zone10-CM30	+	30	0	1	300000	0	21	42	44	53	Ukraine-USK-2000-2	Украина, УСК-2000, (CM 30.0), зона 10. 3 градусная зона 	Ukraine, USK-2000 (CM 30.0), zone 10. 3 degree	ua	https://github.com/SPoslavskyi/USK2000	
+UKR-USK2000-Zone11-CM33	+	33	0	1	300000	0	21	42	44	53	Ukraine-USK-2000-2	Украина, УСК-2000, (CM 33.0), зона 11. 3 градусная зона 	Ukraine, USK-2000 (CM 33.0), zone 11. 3 degree	ua	https://github.com/SPoslavskyi/USK2000	
+UKR-USK2000-Zone12-CM36	+	36	0	1	300000	0	21	42	44	53	Ukraine-USK-2000-2	Украина, УСК-2000, (CM 36.0), зона 12. 3 градусная зона 	Ukraine, USK-2000 (CM 36.0), zone 12. 3 degree	ua	https://github.com/SPoslavskyi/USK2000	
+UKR-USK2000-Zone13-CM39	+	39	0	1	300000	0	21	42	44	53	Ukraine-USK-2000-2	Украина, УСК-2000, (CM 39.0), зона 13. 3 градусная зона 	Ukraine, USK-2000 (CM 39.0), zone 13. 3 degree	ua	https://github.com/SPoslavskyi/USK2000	
+UKR-MSK80	+	30.5	0	1	300000	0	21	42	44	53	Ukraine-USK-2000-2	Городская СК Киев (Украина)	Ukraine, Kyiv town system	ua;town	https://github.com/SPoslavskyi/USK2000	
+UKR-MSK85	+	33	0	1	300000	0	21	42	44	53	Ukraine-USK-2000-2	Городская СК Севастополь (Крым)	Crimea, Sevastopol town system	ua;town	https://github.com/SPoslavskyi/USK2000	
+UKR-MSK01	+	34.5	0	1	300000	0	21	42	44	53	Ukraine-USK-2000-2	Региональная СК п-ов Крым	Crimea, region system	ua;region	https://github.com/SPoslavskyi/USK2000	
+UKR-MSK05	+	28.6666666666667	0	1	300000	0	21	42	44	53	Ukraine-USK-2000-2	Региональная СК Винницкой обл. (Украина)	Ukraine, Vinnytsia region system	ua;region	https://github.com/SPoslavskyi/USK2000	
+UKR-MSK07	+	24.8333333333333	0	1	300000	0	21	42	44	53	Ukraine-USK-2000-2	Региональная СК Волынской обл. (Украина)	Ukraine, Volyn region system	ua;region	https://github.com/SPoslavskyi/USK2000	
+UKR-MSK12	+	35	0	1	300000	0	21	42	44	53	Ukraine-USK-2000-2	Региональная СК Днепропетровская обл. (Украина)	Ukraine, Dnipropetrovsk region system	ua;region	https://github.com/SPoslavskyi/USK2000	
+UKR-MSK14	+	37.5	0	1	300000	0	21	42	44	53	Ukraine-USK-2000-2	Региональная СК Донецкая обл. (Украина)	Ukraine, Donetsk region system	ua;region	https://github.com/SPoslavskyi/USK2000	
+UKR-MSK18	+	28.5	0	1	300000	0	21	42	44	53	Ukraine-USK-2000-2	Региональная СК Житомирская обл. (Украина)	Ukraine, Zhytomyr region system	ua;region	https://github.com/SPoslavskyi/USK2000	
+UKR-MSK21	+	23.5	0	1	300000	0	21	42	44	53	Ukraine-USK-2000-2	Региональная СК Закарпатская обл. (Украина)	Ukraine, Transcarpathian region system	ua;region	https://github.com/SPoslavskyi/USK2000	
+UKR-MSK23	+	36	0	1	300000	0	21	42	44	53	Ukraine-USK-2000-2	Региональная СК Запорожская обл. (Украина)	Ukraine, Zaporizhia region system	ua;region	https://github.com/SPoslavskyi/USK2000	
+UKR-MSK26	+	24.75	0	1	300000	0	21	42	44	53	Ukraine-USK-2000-2	Региональная СК Ивано-Франковская обл. (Украина)	Ukraine, Ivano-Frankivsk region system	ua;region	https://github.com/SPoslavskyi/USK2000	
+UKR-MSK32	+	30.5	0	1	300000	0	21	42	44	53	Ukraine-USK-2000-2	Региональная СК Киевская обл. (Украина)	Ukraine, Kyiv region system	ua;region	https://github.com/SPoslavskyi/USK2000	
+UKR-MSK35	+	32	0	1	300000	0	21	42	44	53	Ukraine-USK-2000-2	Региональная СК Кировоградская обл. (Украина)	Ukraine, Kirovohrad region system	ua;region	https://github.com/SPoslavskyi/USK2000	
+UKR-MSK44	+	39	0	1	300000	0	21	42	44	53	Ukraine-USK-2000-2	Региональная СК Луганская обл. (Украина)	Ukraine, Luhansk region system	ua;region	https://github.com/SPoslavskyi/USK2000	
+UKR-MSK46	+	24	0	1	300000	0	21	42	44	53	Ukraine-USK-2000-2	Региональная СК Львовская обл. (Украина)	Ukraine, Lviv region system	ua;region	https://github.com/SPoslavskyi/USK2000	
+UKR-MSK48	+	31.8333333333333	0	1	300000	0	21	42	44	53	Ukraine-USK-2000-2	Региональная СК Николаевская обл. (Украина)	Ukraine, Mykolaiv region system	ua;region	https://github.com/SPoslavskyi/USK2000	
+UKR-MSK51	+	30	0	1	300000	0	21	42	44	53	Ukraine-USK-2000-2	Региональная СК Одесская обл. (Украина)	Ukraine, Odesa region system	ua;region	https://github.com/SPoslavskyi/USK2000	
+UKR-MSK53	+	33.8333333333333	0	1	300000	0	21	42	44	53	Ukraine-USK-2000-2	Региональная СК Полтавская обл. (Украина)	Ukraine, Poltava region system	ua;region	https://github.com/SPoslavskyi/USK2000	
+UKR-MSK56	+	27	0	1	300000	0	21	42	44	53	Ukraine-USK-2000-2	Региональная СК Ровенская обл. (Украина)	Ukraine, Rivne region system	ua;region	https://github.com/SPoslavskyi/USK2000	
+UKR-MSK59	+	34.5	0	1	300000	0	21	42	44	53	Ukraine-USK-2000-2	Региональная СК Сумская обл. (Украина)	Ukraine, Sumy region system	ua;region	https://github.com/SPoslavskyi/USK2000	
+UKR-MSK61	+	25.5	0	1	300000	0	21	42	44	53	Ukraine-USK-2000-2	Региональная СК Тернопольская обл. (Украина)	Ukraine, Ternopil region system	ua;region	https://github.com/SPoslavskyi/USK2000	
+UKR-MSK63	+	36.5	0	1	300000	0	21	42	44	53	Ukraine-USK-2000-2	Региональная СК Харьковская обл. (Украина)	Ukraine, Kharkiv region system	ua;region	https://github.com/SPoslavskyi/USK2000	
+UKR-MSK65	+	33.5	0	1	300000	0	21	42	44	53	Ukraine-USK-2000-2	Региональная СК Херсонская обл. (Украина)	Ukraine, Kherson region system	ua;region	https://github.com/SPoslavskyi/USK2000	
+UKR-MSK68	+	27	0	1	300000	0	21	42	44	53	Ukraine-USK-2000-2	Региональная СК Хмельницкая обл. (Украина)	Ukraine, Khmelnytskyi region system	ua;region	https://github.com/SPoslavskyi/USK2000	
+UKR-MSK71	+	31.5	0	1	300000	0	21	42	44	53	Ukraine-USK-2000-2	Региональная СК Черкасская обл. (Украина)	Ukraine, Cherkasy region system	ua;region	https://github.com/SPoslavskyi/USK2000	
+UKR-MSK73	+	26	0	1	300000	0	21	42	44	53	Ukraine-USK-2000-2	Региональная СК Черновицкая обл. (Украина)	Ukraine, Chernivtsi region system	ua;region	https://github.com/SPoslavskyi/USK2000	
+UKR-MSK74	+	32	0	1	300000	0	21	42	44	53	Ukraine-USK-2000-2	Региональная СК Черниговская обл. (Украина)	Ukraine, Chernihiv region system	ua;region	https://github.com/SPoslavskyi/USK2000	

@@ -59,6 +59,14 @@ Datum from GOST_32453-2017</Description>
     <EllipsoidId>Krasovsky-SK42/95</EllipsoidId>
   </GeodeticDatum>
   
+  <GeodeticDatum id="Ukraine-USK-2000-2">
+    <Name>Ukraine-USK-2000 (old)</Name>
+    <Description>Reference ellipsoid USK-2000</Description>
+    <Authority>Not Official</Authority>
+    <PrimeMeridianId>Greenwich</PrimeMeridianId>
+    <EllipsoidId>Krasovsky-SK42/95</EllipsoidId>
+  </GeodeticDatum>
+  
   <GeodeticDatum id="RUSSIA-REF-GSK2011-7683">
     <Name>RUSSIA-REF-GSK2011</Name>
     <Description>Reference ellipsoid GSK-2011. Aka EPSG:1159, for EPSG:7683</Description>
@@ -467,6 +475,60 @@ Datum from GOST_32453-2017</Description>
       <ParameterValue>
         <OperationParameterId>Z-axis rotation</OperationParameterId>
         <Value uom="degree">0.000204444444444444</Value>
+      </ParameterValue>
+      <ParameterValue>
+        <OperationParameterId>Scale difference</OperationParameterId>
+        <Value uom="unity">0</Value>
+      </ParameterValue>
+    </OperationMethod>
+  </Transformation>
+  
+  <Transformation id="USK-2000 to WGS-84 old">
+    <Name>USK-2000 to WGS-84 old</Name>
+    <Description>USK-2000 to WGS-84 (old variant)</Description>
+    <DomainOfValidity>
+      <Extent>
+        <GeographicElement>
+          <GeographicBoundingBox>
+            <WestBoundLongitude>22</WestBoundLongitude>
+            <EastBoundLongitude>42</EastBoundLongitude>
+            <SouthBoundLatitude>43</SouthBoundLatitude>
+            <NorthBoundLatitude>54</NorthBoundLatitude>
+          </GeographicBoundingBox>
+        </GeographicElement>
+      </Extent>
+    </DomainOfValidity>
+    <CoordinateOperationAccuracy>
+      <Accuracy uom="meter">500</Accuracy>
+    </CoordinateOperationAccuracy>
+    <SourceDatumId>Ukraine-USK-2000-2</SourceDatumId>
+    <TargetDatumId>WGS84</TargetDatumId>
+    <IsReversible>true</IsReversible>
+    <OperationMethod>
+      <OperationMethodId>Seven Parameter Transformation</OperationMethodId>
+      <ParameterValue>
+        <OperationParameterId>X-axis translation</OperationParameterId>
+        <Value uom="meter">24.376</Value>
+      </ParameterValue>
+      <ParameterValue>
+        <OperationParameterId>Y-axis translation</OperationParameterId>
+        <Value uom="meter">-121.321</Value>
+      </ParameterValue>
+      <ParameterValue>
+        <OperationParameterId>Z-axis translation</OperationParameterId>
+        <Value uom="meter">-75.895</Value>
+      </ParameterValue>
+      <ParameterValue>
+        <OperationParameterId>X-axis rotation</OperationParameterId>
+        <Value uom="degree">-0.001296</Value>
+      </ParameterValue>
+      <ParameterValue>
+        <OperationParameterId>Y-axis rotation</OperationParameterId>
+        <Value uom="degree">-0.007840</Value>
+      </ParameterValue>
+      <ParameterValue>
+        <OperationParameterId>Z-axis rotation</OperationParameterId>
+        <Value uom="degree">0.012672</Value>
       </ParameterValue>
       <ParameterValue>
         <OperationParameterId>Scale difference</OperationParameterId>
