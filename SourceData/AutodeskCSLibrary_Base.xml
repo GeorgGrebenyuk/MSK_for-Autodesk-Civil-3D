@@ -1,0 +1,463 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Dictionary version="1.0">
+
+  <GeodeticDatum id="MGGT">
+    <Name>MGGT</Name>
+    <Description>Moscow MGGT Datum</Description>
+    <Authority>Not Official</Authority>
+    <PrimeMeridianId>Greenwich</PrimeMeridianId>
+    <EllipsoidId>BESSEL</EllipsoidId>
+  </GeodeticDatum>
+
+  <GeodeticDatum id="RUSSIA-REF-SK42">
+    <Name>RUSSIA-REF-SK42</Name>
+    <Description>Reference ellipsoid SK-1942
+Datum from GOST_32453-2017</Description>
+    <Authority>Not Official</Authority>
+    <PrimeMeridianId>Greenwich</PrimeMeridianId>
+    <EllipsoidId>Krasovsky-SK42/95</EllipsoidId>
+  </GeodeticDatum>
+
+  <GeodeticDatum id="RUSSIA-REF-SK95-2017">
+    <Name>RUSSIA-REF-SK95-2017</Name>
+    <Description>Reference ellipsoid SK-1995
+Datum from GOST_32453-2017</Description>
+    <Authority>Not Official</Authority>
+    <PrimeMeridianId>Greenwich</PrimeMeridianId>
+    <EllipsoidId>Krasovsky-SK42/95</EllipsoidId>
+  </GeodeticDatum>
+
+  <GeodeticDatum id="RUSSIA-REF-SK63">
+    <Name>RUSSIA-REF-SK63</Name>
+    <Description>Reference ellipsoid SK-1963 (Krasovsky)</Description>
+    <Authority>Not Official</Authority>
+    <PrimeMeridianId>Greenwich</PrimeMeridianId>
+    <EllipsoidId>Krasovsky-SK42/95</EllipsoidId>
+  </GeodeticDatum>
+
+  <GeodeticDatum id="RUSSIA-REF-PZ-90.11">
+    <Name>RUSSIA-REF-PZ-90.11</Name>
+    <Description>Reference ellipsoid PZ-90.11</Description>
+    <Authority>Not Official</Authority>
+    <PrimeMeridianId>Greenwich</PrimeMeridianId>
+    <EllipsoidId>Krasovsky-PZ-90</EllipsoidId>
+  </GeodeticDatum>
+
+  <GeodeticDatum id="RUSSIA-REF-PZ-90.11_23">
+    <Name>RUSSIA-REF-PZ-90.11_23</Name>
+    <Description>Reference ellipsoid PZ-90.11</Description>
+    <Authority>Not Official</Authority>
+    <PrimeMeridianId>Greenwich</PrimeMeridianId>
+    <EllipsoidId>Krasovsky-PZ-90</EllipsoidId>
+  </GeodeticDatum>
+
+  <GeodeticDatum id="Ukraine-USK-2000">
+    <Name>Ukraine-USK-2000</Name>
+    <Description>Reference ellipsoid USK-2000</Description>
+    <Authority>Not Official</Authority>
+    <PrimeMeridianId>Greenwich</PrimeMeridianId>
+    <EllipsoidId>Krasovsky-SK42/95</EllipsoidId>
+  </GeodeticDatum>
+
+  <Ellipsoid id="BESSEL">
+    <Name>BESSEL</Name>
+    <Description>Bessel, 1841</Description>
+    <Authority>US Defense Mapping Agency, TR-8350.2-B, December 1987</Authority>
+    <SemiMajorAxis uom="meter">6377397.155</SemiMajorAxis>
+    <SecondDefiningParameter>
+      <SemiMinorAxis uom="meter">6356078.96281819</SemiMinorAxis>
+    </SecondDefiningParameter>
+  </Ellipsoid>
+
+  <Alias id="7004" type="Ellipsoid">
+    <ObjectId>BESSEL</ObjectId>
+    <Namespace>EPSG Code</Namespace>
+  </Alias>
+
+  <Ellipsoid id="Krasovsky-SK42/95">
+    <Name>Krasovsky-SK42/95</Name>
+    <Description>Ellipsoid Krasovsky SK-42/95
+GOST 32453-2017_4.2.2</Description>
+    <SemiMajorAxis uom="meter">6378245</SemiMajorAxis>
+    <SecondDefiningParameter>
+      <SemiMinorAxis uom="meter">6356863.01877305</SemiMinorAxis>
+    </SecondDefiningParameter>
+  </Ellipsoid>
+
+  <Ellipsoid id="Krasovsky-PZ-90">
+    <Name>Krasovsky-PZ-90</Name>
+    <Description>Ellipsoid Kras. PZ-90, 90.02, 90.11
+GOST 32453-2017_4.1.1.3</Description>
+    <SemiMajorAxis uom="meter">6378136</SemiMajorAxis>
+    <SecondDefiningParameter>
+      <SemiMinorAxis uom="meter">6356751.36179569</SemiMinorAxis>
+    </SecondDefiningParameter>
+  </Ellipsoid>
+
+  <Transformation id="MGGT_to_WGS84">
+    <Name>MGGT_to_WGS84</Name>
+    <Description>MGGT_to_WGS-84</Description>
+    <CoordinateOperationAccuracy>
+      <Accuracy uom="meter">500</Accuracy>
+    </CoordinateOperationAccuracy>
+    <SourceDatumId>MGGT</SourceDatumId>
+    <TargetDatumId>WGS84</TargetDatumId>
+    <IsReversible>true</IsReversible>
+    <OperationMethod>
+      <OperationMethodId>Coordinate Frame Rotation (geog2D domain)</OperationMethodId>
+      <ParameterValue>
+        <OperationParameterId>X-axis translation</OperationParameterId>
+        <Value uom="meter">316.151</Value>
+      </ParameterValue>
+      <ParameterValue>
+        <OperationParameterId>Y-axis translation</OperationParameterId>
+        <Value uom="meter">78.924</Value>
+      </ParameterValue>
+      <ParameterValue>
+        <OperationParameterId>Z-axis translation</OperationParameterId>
+        <Value uom="meter">589.65</Value>
+      </ParameterValue>
+      <ParameterValue>
+        <OperationParameterId>X-axis rotation</OperationParameterId>
+        <Value uom="degree">0.000436869444444444</Value>
+      </ParameterValue>
+      <ParameterValue>
+        <OperationParameterId>Y-axis rotation</OperationParameterId>
+        <Value uom="degree">-0.000747802777777778</Value>
+      </ParameterValue>
+      <ParameterValue>
+        <OperationParameterId>Z-axis rotation</OperationParameterId>
+        <Value uom="degree">-0.000651925</Value>
+      </ParameterValue>
+      <ParameterValue>
+        <OperationParameterId>Scale difference</OperationParameterId>
+        <Value uom="unity">8.4507e-06</Value>
+      </ParameterValue>
+    </OperationMethod>
+  </Transformation>
+
+  <Transformation id="SK42_to_WGS84_GOST_32453-2017">
+    <Name>SK42_to_WGS84_GOST_32453-2017</Name>
+    <Description>SK-42 to WGS-84 using GOST 32453-2017/2013 (EPSG:5044)</Description>
+    <DomainOfValidity>
+      <Extent>
+        <GeographicElement>
+          <GeographicBoundingBox>
+            <WestBoundLongitude>14</WestBoundLongitude>
+            <EastBoundLongitude>180</EastBoundLongitude>
+            <SouthBoundLatitude>35</SouthBoundLatitude>
+            <NorthBoundLatitude>89</NorthBoundLatitude>
+          </GeographicBoundingBox>
+        </GeographicElement>
+      </Extent>
+    </DomainOfValidity>
+    <CoordinateOperationAccuracy>
+      <Accuracy uom="meter">500</Accuracy>
+    </CoordinateOperationAccuracy>
+    <SourceDatumId>RUSSIA-REF-SK42</SourceDatumId>
+    <TargetDatumId>WGS84</TargetDatumId>
+    <IsReversible>true</IsReversible>
+    <OperationMethod>
+      <OperationMethodId>Seven Parameter Transformation</OperationMethodId>
+      <ParameterValue>
+        <OperationParameterId>X-axis translation</OperationParameterId>
+        <Value uom="meter">23.57</Value>
+      </ParameterValue>
+      <ParameterValue>
+        <OperationParameterId>Y-axis translation</OperationParameterId>
+        <Value uom="meter">-140.95</Value>
+      </ParameterValue>
+      <ParameterValue>
+        <OperationParameterId>Z-axis translation</OperationParameterId>
+        <Value uom="meter">-79.8</Value>
+      </ParameterValue>
+      <ParameterValue>
+        <OperationParameterId>X-axis rotation</OperationParameterId>
+        <Value uom="degree">0</Value>
+      </ParameterValue>
+      <ParameterValue>
+        <OperationParameterId>Y-axis rotation</OperationParameterId>
+        <Value uom="degree">-9.72222222222222e-05</Value>
+      </ParameterValue>
+      <ParameterValue>
+        <OperationParameterId>Z-axis rotation</OperationParameterId>
+        <Value uom="degree">-0.000219444444444444</Value>
+      </ParameterValue>
+      <ParameterValue>
+        <OperationParameterId>Scale difference</OperationParameterId>
+        <Value uom="unity">-2.2e-07</Value>
+      </ParameterValue>
+    </OperationMethod>
+  </Transformation>
+
+  <Transformation id="SK95_to_WGS84_GOST_32453-2017">
+    <Name>SK95_to_WGS84_GOST_32453-2017</Name>
+    <Description>SK-1995 to WGS-84 using GOST 32453-2017/2013 (EPSG:5043)</Description>
+    <DomainOfValidity>
+      <Extent>
+        <GeographicElement>
+          <GeographicBoundingBox>
+            <WestBoundLongitude>14</WestBoundLongitude>
+            <EastBoundLongitude>180</EastBoundLongitude>
+            <SouthBoundLatitude>35</SouthBoundLatitude>
+            <NorthBoundLatitude>89</NorthBoundLatitude>
+          </GeographicBoundingBox>
+        </GeographicElement>
+      </Extent>
+    </DomainOfValidity>
+    <CoordinateOperationAccuracy>
+      <Accuracy uom="meter">500</Accuracy>
+    </CoordinateOperationAccuracy>
+    <SourceDatumId>RUSSIA-REF-SK95-2017</SourceDatumId>
+    <TargetDatumId>WGS84</TargetDatumId>
+    <IsReversible>true</IsReversible>
+    <OperationMethod>
+      <OperationMethodId>Seven Parameter Transformation</OperationMethodId>
+      <ParameterValue>
+        <OperationParameterId>X-axis translation</OperationParameterId>
+        <Value uom="meter">24.47</Value>
+      </ParameterValue>
+      <ParameterValue>
+        <OperationParameterId>Y-axis translation</OperationParameterId>
+        <Value uom="meter">-130.89</Value>
+      </ParameterValue>
+      <ParameterValue>
+        <OperationParameterId>Z-axis translation</OperationParameterId>
+        <Value uom="meter">-81.56</Value>
+      </ParameterValue>
+      <ParameterValue>
+        <OperationParameterId>X-axis rotation</OperationParameterId>
+        <Value uom="degree">0</Value>
+      </ParameterValue>
+      <ParameterValue>
+        <OperationParameterId>Y-axis rotation</OperationParameterId>
+        <Value uom="degree">0</Value>
+      </ParameterValue>
+      <ParameterValue>
+        <OperationParameterId>Z-axis rotation</OperationParameterId>
+        <Value uom="degree">-3.61111111111111e-05</Value>
+      </ParameterValue>
+      <ParameterValue>
+        <OperationParameterId>Scale difference</OperationParameterId>
+        <Value uom="unity">-2.2e-07</Value>
+      </ParameterValue>
+    </OperationMethod>
+  </Transformation>
+
+  <Transformation id="SK-1963_to_WGS84">
+    <Name>SK-1963_to_WGS84</Name>
+    <Description>EPSG:1267 (from GOST R 51794-2001)</Description>
+    <DomainOfValidity>
+      <Extent>
+        <GeographicElement>
+          <GeographicBoundingBox>
+            <WestBoundLongitude>14</WestBoundLongitude>
+            <EastBoundLongitude>180</EastBoundLongitude>
+            <SouthBoundLatitude>35</SouthBoundLatitude>
+            <NorthBoundLatitude>89</NorthBoundLatitude>
+          </GeographicBoundingBox>
+        </GeographicElement>
+      </Extent>
+    </DomainOfValidity>
+    <CoordinateOperationAccuracy>
+      <Accuracy uom="meter">500</Accuracy>
+    </CoordinateOperationAccuracy>
+    <SourceDatumId>RUSSIA-REF-SK63</SourceDatumId>
+    <TargetDatumId>WGS84</TargetDatumId>
+    <IsReversible>true</IsReversible>
+    <OperationMethod>
+      <OperationMethodId>Seven Parameter Transformation</OperationMethodId>
+      <ParameterValue>
+        <OperationParameterId>X-axis translation</OperationParameterId>
+        <Value uom="meter">23.92</Value>
+      </ParameterValue>
+      <ParameterValue>
+        <OperationParameterId>Y-axis translation</OperationParameterId>
+        <Value uom="meter">-141.27</Value>
+      </ParameterValue>
+      <ParameterValue>
+        <OperationParameterId>Z-axis translation</OperationParameterId>
+        <Value uom="meter">-80.9</Value>
+      </ParameterValue>
+      <ParameterValue>
+        <OperationParameterId>X-axis rotation</OperationParameterId>
+        <Value uom="degree">0</Value>
+      </ParameterValue>
+      <ParameterValue>
+        <OperationParameterId>Y-axis rotation</OperationParameterId>
+        <Value uom="degree">-9.72222222222222e-05</Value>
+      </ParameterValue>
+      <ParameterValue>
+        <OperationParameterId>Z-axis rotation</OperationParameterId>
+        <Value uom="degree">-0.000227777777777778</Value>
+      </ParameterValue>
+      <ParameterValue>
+        <OperationParameterId>Scale difference</OperationParameterId>
+        <Value uom="unity">-1.2e-07</Value>
+      </ParameterValue>
+    </OperationMethod>
+  </Transformation>
+
+  <Transformation id="SK-42_to_PZ 90.11">
+    <Name>SK-42_to_PZ 90.11</Name>
+    <Description>SK-42_to_PZ 90.11</Description>
+    <DomainOfValidity>
+      <Extent>
+        <GeographicElement>
+          <GeographicBoundingBox>
+            <WestBoundLongitude>14</WestBoundLongitude>
+            <EastBoundLongitude>180</EastBoundLongitude>
+            <SouthBoundLatitude>35</SouthBoundLatitude>
+            <NorthBoundLatitude>89</NorthBoundLatitude>
+          </GeographicBoundingBox>
+        </GeographicElement>
+      </Extent>
+    </DomainOfValidity>
+    <CoordinateOperationAccuracy>
+      <Accuracy uom="meter">500</Accuracy>
+    </CoordinateOperationAccuracy>
+    <SourceDatumId>RUSSIA-REF-SK42</SourceDatumId>
+    <TargetDatumId>RUSSIA-REF-PZ-90.11</TargetDatumId>
+    <IsReversible>true</IsReversible>
+    <OperationMethod>
+      <OperationMethodId>Seven Parameter Transformation</OperationMethodId>
+      <ParameterValue>
+        <OperationParameterId>X-axis translation</OperationParameterId>
+        <Value uom="meter">23.557</Value>
+      </ParameterValue>
+      <ParameterValue>
+        <OperationParameterId>Y-axis translation</OperationParameterId>
+        <Value uom="meter">-140.844</Value>
+      </ParameterValue>
+      <ParameterValue>
+        <OperationParameterId>Z-axis translation</OperationParameterId>
+        <Value uom="meter">-79.778</Value>
+      </ParameterValue>
+      <ParameterValue>
+        <OperationParameterId>X-axis rotation</OperationParameterId>
+        <Value uom="degree">-6.38888888888889e-07</Value>
+      </ParameterValue>
+      <ParameterValue>
+        <OperationParameterId>Y-axis rotation</OperationParameterId>
+        <Value uom="degree">-9.62388888888889e-05</Value>
+      </ParameterValue>
+      <ParameterValue>
+        <OperationParameterId>Z-axis rotation</OperationParameterId>
+        <Value uom="degree">-0.000220613888888889</Value>
+      </ParameterValue>
+      <ParameterValue>
+        <OperationParameterId>Scale difference</OperationParameterId>
+        <Value uom="unity">-2.28e-07</Value>
+      </ParameterValue>
+    </OperationMethod>
+  </Transformation>
+
+  <Transformation id="SK-42_to_PZ-90.11-23">
+    <Name>SK-42_to_PZ-90.11-23</Name>
+    <Description>SK-42_to_PZ 90.11</Description>
+    <DomainOfValidity>
+      <Extent>
+        <GeographicElement>
+          <GeographicBoundingBox>
+            <WestBoundLongitude>14</WestBoundLongitude>
+            <EastBoundLongitude>180</EastBoundLongitude>
+            <SouthBoundLatitude>35</SouthBoundLatitude>
+            <NorthBoundLatitude>89</NorthBoundLatitude>
+          </GeographicBoundingBox>
+        </GeographicElement>
+      </Extent>
+    </DomainOfValidity>
+    <CoordinateOperationAccuracy>
+      <Accuracy uom="meter">500</Accuracy>
+    </CoordinateOperationAccuracy>
+    <SourceDatumId>RUSSIA-REF-SK42</SourceDatumId>
+    <TargetDatumId>RUSSIA-REF-PZ-90.11_23</TargetDatumId>
+    <IsReversible>true</IsReversible>
+    <OperationMethod>
+      <OperationMethodId>Seven Parameter Transformation</OperationMethodId>
+      <ParameterValue>
+        <OperationParameterId>X-axis translation</OperationParameterId>
+        <Value uom="meter">-88.1843</Value>
+      </ParameterValue>
+      <ParameterValue>
+        <OperationParameterId>Y-axis translation</OperationParameterId>
+        <Value uom="meter">-76.4695</Value>
+      </ParameterValue>
+      <ParameterValue>
+        <OperationParameterId>Z-axis translation</OperationParameterId>
+        <Value uom="meter">-112.8218</Value>
+      </ParameterValue>
+      <ParameterValue>
+        <OperationParameterId>X-axis rotation</OperationParameterId>
+        <Value uom="degree">-0.000386944444444444</Value>
+      </ParameterValue>
+      <ParameterValue>
+        <OperationParameterId>Y-axis rotation</OperationParameterId>
+        <Value uom="degree">-0.000508611111111111</Value>
+      </ParameterValue>
+      <ParameterValue>
+        <OperationParameterId>Z-axis rotation</OperationParameterId>
+        <Value uom="degree">0.000721111111111111</Value>
+      </ParameterValue>
+      <ParameterValue>
+        <OperationParameterId>Scale difference</OperationParameterId>
+        <Value uom="unity">1.000008337e-06</Value>
+      </ParameterValue>
+    </OperationMethod>
+  </Transformation>
+
+  <Transformation id="USK-2000 to WGS-84">
+    <Name>USK-2000 to WGS-84</Name>
+    <Description>USK-2000 to WGS-84</Description>
+    <DomainOfValidity>
+      <Extent>
+        <GeographicElement>
+          <GeographicBoundingBox>
+            <WestBoundLongitude>22</WestBoundLongitude>
+            <EastBoundLongitude>42</EastBoundLongitude>
+            <SouthBoundLatitude>43</SouthBoundLatitude>
+            <NorthBoundLatitude>54</NorthBoundLatitude>
+          </GeographicBoundingBox>
+        </GeographicElement>
+      </Extent>
+    </DomainOfValidity>
+    <CoordinateOperationAccuracy>
+      <Accuracy uom="meter">500</Accuracy>
+    </CoordinateOperationAccuracy>
+    <SourceDatumId>Ukraine-USK-2000</SourceDatumId>
+    <TargetDatumId>WGS84</TargetDatumId>
+    <IsReversible>true</IsReversible>
+    <OperationMethod>
+      <OperationMethodId>Seven Parameter Transformation</OperationMethodId>
+      <ParameterValue>
+        <OperationParameterId>X-axis translation</OperationParameterId>
+        <Value uom="meter">25</Value>
+      </ParameterValue>
+      <ParameterValue>
+        <OperationParameterId>Y-axis translation</OperationParameterId>
+        <Value uom="meter">-141</Value>
+      </ParameterValue>
+      <ParameterValue>
+        <OperationParameterId>Z-axis translation</OperationParameterId>
+        <Value uom="meter">-78.5</Value>
+      </ParameterValue>
+      <ParameterValue>
+        <OperationParameterId>X-axis rotation</OperationParameterId>
+        <Value uom="degree">0</Value>
+      </ParameterValue>
+      <ParameterValue>
+        <OperationParameterId>Y-axis rotation</OperationParameterId>
+        <Value uom="degree">9.72222222222222e-05</Value>
+      </ParameterValue>
+      <ParameterValue>
+        <OperationParameterId>Z-axis rotation</OperationParameterId>
+        <Value uom="degree">0.000204444444444444</Value>
+      </ParameterValue>
+      <ParameterValue>
+        <OperationParameterId>Scale difference</OperationParameterId>
+        <Value uom="unity">0</Value>
+      </ParameterValue>
+    </OperationMethod>
+  </Transformation>
+
+</Dictionary>
