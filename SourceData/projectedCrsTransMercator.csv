@@ -248,13 +248,16 @@ RUS-MSK23-Sochi1	+	39	0	1	7.995	-4784572.808	39	40	43	44	5044	Городская
 RUS-MSK23-Sochi2	+	39	0	1	4.295	-4784578.384	39	40	43	44	5044	Городская СК Сочи (Краснодарский край) вар 2	Krasnodarsky region, Sochi town system var 2	ru;town	MAPINFOW	
 RUS-MSK23-Zone1	+	37.98333333333	0	1	1300000	-4511057.628	37	45	42	48	5044	MSK-23 Краснодарский край	Krasnodar krai MSK-23 Zona 1	ru;region		
 RUS-MSK23-Zone2	+	40.98333333333	0	1	2300000	-4511057.628	37	45	42	48	5044	MSK-23 Краснодарский край	Krasnodar krai MSK-23 Zona 2	ru;region		
+RUS-MSK24-Cs162	+	78	0	1	62728.2	-7546013.8	67	129	43	83	5044	Районная СК 162 (Красноярский край) 	Krasnoyarsky region, district system 162	ru;region	https://geodesist.ru/threads/parametry-sk-166-krasnojarskij-kraj-nuzhny.44231/page-5#post-864210	
+RUS-MSK24-Cs163	+	81	0	1	65425.7	-7434483.2	67	129	43	83	5044	Районная СК 163 (Красноярский край) 	Krasnoyarsky region, district system 163	ru;region	https://geodesist.ru/threads/parametry-sk-166-krasnojarskij-kraj-nuzhny.44231/page-2#post-666242	
 RUS-MSK24-Cs164-1	+	84	0	1	86209.8	-6542783.5	67	129	43	83	5044	Районная СК 164-1 (Красноярский край) 	Krasnoyarsky region, district system 164-1	ru;region	MAPINFOW	
 RUS-MSK24-Cs164-2	+	84	0	1	86269.3	-6542783.5	67	129	43	83	5044	Районная СК 164-2 (Красноярский край) 	Krasnoyarsky region, district system 164-2	ru;region	MAPINFOW	
 RUS-MSK24-Cs165	+	87	0	1	105295.8	-5652185	67	129	43	83	5044	Районная СК 165 (Красноярский край) 	Krasnoyarsky region, district system 165	ru;region	MAPINFOW	
 RUS-MSK24-Cs166	+	90	0	1	107543.3	-5540944.5	67	129	43	83	5044	Районная СК 166 (Красноярский край) 	Krasnoyarsky region, district system 166	ru;region	MAPINFOW	
 RUS-MSK24-Cs167	+	93	0	1	106797.8	-5578022.5	67	129	43	83	5044	Районная СК 167 (Красноярский край) 	Krasnoyarsky region, district system 167	ru;region	MAPINFOW	
-RUS-MSK24-Cs167	+	96	0	1	108285.2	-5503868.6	67	129	43	83	5044	Районная СК 168 (Красноярский край) 	Krasnoyarsky region, district system 168	ru;region	MAPINFOW	
+RUS-MSK24-Cs168	+	96	0	1	108285.2	-5503868.6	67	129	43	83	5044	Районная СК 168 (Красноярский край) 	Krasnoyarsky region, district system 168	ru;region	MAPINFOW	
 RUS-MSK24-Cs169	+	99	0	1	117308.6	-5503868.6	67	129	43	83	5044	Районная СК 169 (Красноярский край) 	Krasnoyarsky region, district system 169	ru;region	MAPINFOW	
+RUS-MSK24-Cs170	+	102	0	1	90338.9	-6357146.1	67	129	43	83	5044	Районная СК 170 (Красноярский край), Кодинский район	Krasnoyarsky region, district system 170	ru;region	https://geodesist.ru/threads/parametry-sk-166-krasnojarskij-kraj-nuzhny.44231/page-2#post-624687	
 RUS-MSK24-Krasnoyar	+	93	0	1	54304.47	-6196680.59	92	94	55	57	5044	Городская СК Красноярск (Красноярский край) 	Krasnoyarsky region, Krasnoyarsk town system	ru;town	MAPINFOW	
 RUS-MSK24-Zone1	+	81.51666666666	0	1	1500000	-5416586.442	67	129	43	83	5044	MSK-24 Красноярский край	Krasnoyarsk krai MSK-24 Zona 1	ru;region		
 RUS-MSK24-Zone2	+	87.51666666666	0	1	2500000	-5416586.442	67	129	43	83	5044	MSK-24 Красноярский край	Krasnoyarsk krai MSK-24 Zona 2	ru;region		
@@ -286,6 +289,7 @@ RUS-MSK29-Zone3	+	50.03333333333	0	1	4400000	-6511057.628	33	73	59	83	5044	MSK-2
 RUS-MSK29-Zone4	+	56.03333333333	0	1	5400000	-6511057.628	33	73	59	83	5044	MSK-29 Архангельская область	Arkhangelsk region MSK-29 Zona 4	ru;region		
 RUS-MSK30-Zone1	+	46.05	0	1	1300000	-4714743.504	42	50	41	50	5044	MSK-30 Астраханская область	Astrakhan region MSK-30 Zona 1	ru;region		
 RUS-MSK30-Zone2	+	49.05	0	1	2300000	-4714743.504	42	50	41	50	5044	MSK-30 Астраханская область	Astrakhan region MSK-30 Zona 2	ru;region		
+RUS-MSK31-Belgorod	+	36	0	1	22200.083	-5597800.098	33	41	49	53	5044	Городская СК Белгород, Белгородская область	Belgorod region, Belgorod town system	ru;town	https://geodesist.ru/threads/msk-31-parametry-perexoda.42192/page-2#post-1024288	
 RUS-MSK31-Zone1	+	35.48333333333	0	1	1250000	-5212900.56	33	41	49	53	5044	MSK-31 Белгородская область	Belgorod region MSK-31 Zona 1	ru;region		
 RUS-MSK31-Zone2	+	38.48333333333	0	1	2250000	-5212900.56	33	41	49	53	5044	MSK-31 Белгородская область	Belgorod region MSK-31 Zona 2	ru;region		
 RUS-MSK32-Zone1	+	32.48333333333	0	1	1250000	-5412900.56	30	38	51	55	5044	MSK-32 Брянская область	Bryansk region MSK-32 Zona 1	ru;region		
@@ -373,7 +377,8 @@ RUS-MSK57-Zone3	+	38.48333333333	0	1	3250000	-12900.566	34	39	51	54	5044	MSK-57 
 RUS-MSK58-Zone1	+	43.05	0	1	1300000	-5514743.504	41	48	52	55	5044	MSK-58 Пензенская область	Penza region MSK-58 Zona 1	ru;region		
 RUS-MSK58-Zone2	+	46.05	0	1	2300000	-5514743.504	41	48	52	55	5044	MSK-58 Пензенская область	Penza region MSK-58 Zona 2	ru;region		
 RUS-MSK59-Aleksandrv	+	57	0	1	0	-6500000	56	59	58	60	5044	Городская СК г.Александровск (Пермский край)	Permsky region, Aleksandrovsk town system	ru;town	MAPINFOW	
-RUS-MSK59-Berezniki	+	57	0	1	387632	-5957156	56	58	59	60	5044	Городская СК Березники (Пермский край)	Permsky region, Berezniki town system	ru;town	MAPINFOW	Возможна ошибка в формулировке, перепутаны масштаб и широта
+RUS-MSK59-Berezniki1	+	57	0	1	387632	-5957156	56	58	59	60	5044	Городская СК Березники (Пермский край)	Permsky region, Berezniki town system	ru;town	MAPINFOW	Возможна ошибка в формулировке, перепутаны масштаб и широта
+RUS-MSK59-Berezniki2	+	57	0	1	20154.99	-6475239.78	56	58	59	60	5044	Городская СК Березники (Пермский край)	Permsky region, Berezniki town system	ru;town	https://geodesist.ru/threads/sistema-koordinat-g-berezniki.93297/#post-1094997	
 RUS-MSK59-Districts	+	57	0	1	387632	-5957156	51	61	55	62	5044	Районная СК Пермской области (Пермский край)	Permsky region, districts CS	ru;town	MAPINFOW	Возможна ошибка в формулировке, перепутаны масштаб и широта
 RUS-MSK59-Gornozavod		57	0	0.999969	-64000	6458000	57	60	57	60	5044	Городская СК г.Горнозаводск (Пермский край)	Permsky region, Gornozavodsk town system	ru;town	MAPINFOW	
 RUS-MSK59-Perm		56.11612948	0	0.999998846	-7081.064	-6433172.3851	51	61	55	62	5044	Городская СК Пермь	Perm town system	ru;town		
@@ -394,15 +399,20 @@ RUS-MSK63-Kinel	+	51	0	1	42500	-5893500	50	51	53	54	5044	Городская СК
 RUS-MSK63-ORB	+	52.0333333299992	0	1	300000	-9414.7	49	51	53	54	5044	Самара, 1963_V2 зона 1 возле ОРБ	Samara ORB (1963 V2-zona 1)	ru;town	MAPINFOW	
 RUS-MSK63-Tolyatti	+	51	0	1	134000	-5912000	49	51	53	54	5044	Городская СК Тольятти (Самарская область)	Samara region,Tolyatti-town cs	ru;town	MAPINFOW	
 RUS-MSK63-Volzhsky	+	49.03333333333	0	1	300000	-9414.7	49	51	52	54	5044	Самарская область, Волжский район	Samara region, Volzhsky district	ru;region	MAPINFOW	
+RUS-MSK63-YuzSakhalinsk	+	142.7433416667	0	1	11102.784	-5192915.216	142	143	46	48	5044	Городская СК г. Южно-Сахалинск (Сахалинская область)	Yuzhno-Sakhalinsk town system (Sakhalin region)	ru;town	Геодезист.ру, https://geodesist.ru/threads/parametry-msk-juzhno-saxalinska.27981/page-3#post-1085287	
 RUS-MSK63-Zhigulevs	+	51	0	1	133998.884	-5911998.478	49	51	53	54	5044	Городская СК Жигулёвск (Самарская область)	Samara region, Zhigulevsk-town cs	ru;town	MAPINFOW	
 RUS-MSK63-Zone1	+	49.03333333333	0	1	1300000	-5509414.7	47	53	51	55	5044	MSK-63 Самарская область	Samara region MSK-63 Zona 1	ru;region		
 RUS-MSK63-Zone2	+	52.03333333333	0	1	2300000	-5509414.7	47	53	51	55	5044	MSK-63 Самарская область	Samara region MSK-63 Zona 2	ru;region		
 RUS-MSK64-Zone1	+	43.05	0	1	1300000	-5214743.504	41	52	49	54	5044	MSK-64 Саратовская область	Saratov region MSK-64 Zona 1	ru;region		
 RUS-MSK64-Zone2	+	46.05	0	1	2300000	-5214743.504	41	52	49	54	5044	MSK-64 Саратовская область	Saratov region MSK-64 Zona 2	ru;region		
 RUS-MSK64-Zone3	+	49.05	0	1	3300000	-5214743.504	41	52	49	54	5044	MSK-64 Саратовская область	Saratov region MSK-64 Zona 3	ru;region		
-RUS-MSK65-Zone1	+	142.71666666667	0	1	1300000	-4516586.439	136	160	42	55	5044	MSK-65 Сахалинская область	Sakhalin region MSK-65 Zona 1	ru;region		
+RUS-MSK65-Zone1	+	142.71666666667	0	1	1300000	-4516586.439	136	160	42	55	5044	MSK-65 Зона 1 Сахалинская область	Sakhalin region MSK-65 Zona 1	ru;region		
+RUS-MSK65-Zone2	+	145.71666666667	0	1	2300000	-4516586.439	136	160	42	55	5044	MSK-65 Зона 2 Сахалинская область	Sakhalin region MSK-65 Zona 2	ru;region	https://geodesist.ru/threads/pereschet-koordinat-g-uglegorsk-saxalin.71864/#post-1110895	
+RUS-MSK65-Zone3	+	148.71666666667	0	1	3300000	-4516586.439	136	160	42	55	5044	MSK-65 Зона 3 Сахалинская область	Sakhalin region MSK-65 Zona 3	ru;region	https://geodesist.ru/threads/pereschet-koordinat-g-uglegorsk-saxalin.71864/#post-1110895	
+RUS-MSK65-Zone4	+	151.71666666667	0	1	4300000	-4516586.439	136	160	42	55	5044	MSK-65 Зона 4 Сахалинская область	Sakhalin region MSK-65 Zona 4	ru;region	https://geodesist.ru/threads/pereschet-koordinat-g-uglegorsk-saxalin.71864/#post-1110895	
+RUS-MSK65-Zone5	+	154.71666666667	0	1	5300000	-4516586.439	136	160	42	55	5044	MSK-65 Зона 5 Сахалинская область	Sakhalin region MSK-65 Zona 5	ru;region	https://geodesist.ru/threads/pereschet-koordinat-g-uglegorsk-saxalin.71864/#post-1110895	
 RUS-MSK66-AjtiSagra1		60	0	1.000034	-1037.08	-6307197.53	60	61	56	58	5044	Городская СК п. Аять, Сагра (Свердловская область) вар 1	Sverdlovsk region, Ayat, Sagra town system var 1	ru;town	MAPINFOW	
-RUS-MSK66-AjtiSagra1		60	0	1.000034	-946.41	-6307221.53	60	61	56	58	5044	Городская СК п. Аять, Сагра (Свердловская область) вар 2	Sverdlovsk region, Ayat, Sagra town system var 2	ru;town	MAPINFOW	
+RUS-MSK66-AjtiSagra2		60	0	1.000034	-946.41	-6307221.53	60	61	56	58	5044	Городская СК п. Аять, Сагра (Свердловская область) вар 2	Sverdlovsk region, Ayat, Sagra town system var 2	ru;town	MAPINFOW	
 RUS-MSK66-Alapaevs1	+	63	0	1	86708.1	-6407633.81	61	63	57	59	5044	Городская СК Алапаевск, вариант 1 (Свердловская область)	Sverdlovsk region, Alapaevsk town system var 1	ru;town	MAPINFOW	
 RUS-MSK66-Alapaevs2		61.706231	0	1.00000004	10000	-6417633.81	61	63	57	59	5044	Городская СК Алапаевск, вариант 2 (Свердловская область)	Sverdlovsk region, Alapaevsk town system var 2	ru;town	MAPINFOW	
 RUS-MSK66-Artemovski	+	63	0.999972	1	78578.08	-6238432.59	59	60	58	59	5044	Городская СК Артемовский (Свердловская область)	Sverdlovsk region, Artemovskiy town system	ru;town	MAPINFOW	
@@ -437,7 +447,7 @@ RUS-MSK66-Krasnotur	+	60	0	1	2191.48	-6612314.07	58	61	59	61	5044	Городск
 RUS-MSK66-Krasnoufim	+	57	0	1	-27928.24	-6258594.63	57	59	56	58	5044	Городская СК Красноуфимск (Свердловская область)	Sverdlovsk region, Krasnoufimsk town system	ru;town	MAPINFOW	
 RUS-MSK66-Kuryi	+	60.05	0	1	-100000	-6311057.63	61	63	56	58	5044	Городская СК Курьи (Свердловская область)	Sverdlovsk region, Kuryi Log town system	ru;town	MAPINFOW	
 RUS-MSK66-Kushva1		60	0	1.000003	0.09	-6289423.21	58	61	57	59	5044	Городская СК Кушва (Свердловская область) вар 1	Sverdlovsk region, Kushva town system var 1	ru;town	MAPINFOW	Возможна ошибка в формулировке, перепутаны масштаб и широта
-RUS-MSK66-Kushva1	+	60	0	1	0.09	-6289423.54	58	61	57	59	5044	Городская СК Кушва (Свердловская область) вар 2	Sverdlovsk region, Kushva town system var 2	ru;town	MAPINFOW	Возможна ошибка в формулировке, перепутаны масштаб и широта
+RUS-MSK66-Kushva2	+	60	0	1	0.09	-6289423.54	58	61	57	59	5044	Городская СК Кушва (Свердловская область) вар 2	Sverdlovsk region, Kushva town system var 2	ru;town	MAPINFOW	Возможна ошибка в формулировке, перепутаны масштаб и широта
 RUS-MSK66-Losinyy	+	60.05	0	1	-50000	-6330057.63	61	62	57	58	5044	Городская СК Лосиный (Свердловская область)	Sverdlovsk region,  Losinyy town system	ru;town	MAPINFOW	
 RUS-MSK66-Luch	+	60.05	0	1	-60329.012	-6210661.47	60	61	57	58	5044	Городская СК п.Луч (Свердловская область)	Sverdlovsk region, Luch town system	ru;town	MAPINFOW	
 RUS-MSK66-Malicheva	+	63	0	1	105739.52	-6314115.74	61	62	57	58	5044	Городская СК п.Малышева (Свердловская область)	Sverdlovsk region, Malicheva town system	ru;town	MAPINFOW	
@@ -540,6 +550,7 @@ RUS-MSK75-Zone2	+	112.03333333333	0	1	2250000	-5111057.628	105	124	48	60	5044	MS
 RUS-MSK75-Zone3	+	115.03333333333	0	1	3250000	-5111057.628	105	124	48	60	5044	MSK-75 Забайкальский край	Trans-Baikal Krai MSK-75 Zona 3	ru;region		
 RUS-MSK75-Zone4	+	118.03333333333	0	1	4250000	-5111057.628	105	124	48	60	5044	MSK-75 Забайкальский край	Trans-Baikal Krai MSK-75 Zona 4	ru;region		
 RUS-MSK75-Zone5	+	121.03333333333	0	1	5250000	-5111057.628	105	124	48	60	5044	MSK-75 Забайкальский край	Trans-Baikal Krai MSK-75 Zona 5	ru;region		
+RUS-MSK76-Yaroslavl	+	39.95106028181	0	1	4805.617	-6389458.756	37	42	56	59	5044	Городская СК Ярославль (Ярославская область)	Yaroslavl region, Yaroslavl town system	ru;region	https://geodesist.ru/threads/vopros-po-gorodskoj-sk-g-jaroslavlja.59146/	
 RUS-MSK76-Zone1	+	38.55	0	1	1250000	-6014743.504	37	42	56	59	5044	MSK-76 Ярославская область	Yaroslavl region MSK-76 Zona 1	ru;region		
 RUS-MSK76-Zone2	+	41.55	0	1	2250000	-6014743.504	37	42	56	59	5044	MSK-76 Ярославская область	Yaroslavl region MSK-76 Zona 2	ru;region		
 RUS-MSK83-Beloyarsk	+	69	0	1	50195.78	-7408592.13	67	69	66	68	5044	Городская СК Белоярск (ЯНАО)	YNAO region, Beloyarsk town system	ru;town	MAPINFOW	
@@ -584,10 +595,16 @@ RUS-MSK87-Zone5	+	168.45	0	1	5400000	-6212900.566	156	180	61	73	5044	MSK-87 Чу
 RUS-MSK87-Zone6	+	174.45	0	1	6400000	-6212900.566	156	180	61	73	5044	MSK-87 Чукотский автономный округ	Chukotka autonomous okrug MSK-87 Zona 6 (6 gradus zona)	ru;region		
 RUS-MSK87-Zone7	+	-179.55	0	1	7400000	-6212900.566	-180	-163	56	72	5044	MSK-87 Чукотский автономный округ	Chukotka autonomous okrug MSK-87 Zona 7 (6 gradus zona)	ru;region		
 RUS-MSK87-Zone8	+	-173.55	0	1	8400000	-6212900.566	-180	-163	56	72	5044	MSK-87 Чукотский автономный округ	Chukotka autonomous okrug MSK-87 Zona 8 (6 gradus zona)	ru;region		
+RUS-MSK88-Aldanskiy	+	126	0	1	500000	-5891344	103	167	54	78	5044	Районная СК Алдынский р-н, респ. Саха (Якутия)	Yakutia, Aldanskiy district system	ru;region	Геодезист.ру, https://geodesist.ru/threads/msk-88.25625/page-3#post-622744	
+RUS-MSK88-Lenskiy	+	111	0	1	9500000	0	103	167	54	78	5044	Районная СК Ленский р-н, респ. Саха (Якутия)	Yakutia, Lenskiy district system	ru;region	Геодезист.ру, https://geodesist.ru/threads/msk-88.25625/page-8#post-966179	
+RUS-MSK88-Mirninskiy	+	111	0	1	500000.003	0	103	167	54	78	5044	Районная СК Мирнинский р-н, респ. Саха (Якутия)	Yakutia, Mirninskiy district system	ru;region	Геодезист.ру, https://geodesist.ru/threads/msk-88.25625/page-7#post-895381	
+RUS-MSK88-Neryungri	+	126	0	1	500000	115024	103	167	54	78	5044	Районная СК Нерюнгри, респ. Саха (Якутия)	Yakutia, Neryungri district system	ru;region	Геодезист.ру, https://geodesist.ru/threads/msk-88.25625/page-2#post-589175	
 RUS-MSK89-Zone1	+	60.05	0	1	1500000	-5811057.63	59	87	61	75	5044	МСК 89 Зона 1 (ЯНАО, 60.05), Надымский район	MSK 89 Zona 1 (YNAO, 60.05) 6 degree	ru;region		
-RUS-MSK89-Zone1	+	72.05	0	1	3500000	-5811057.63	59	87	61	75	5044	МСК 89 Зона 3 (ЯНАО, 72.05), Надымский район	MSK 89 Zona 1 (YNAO, 72.05) 6 degree	ru;region		
-RUS-MSK89-Zone1	+	78.05	0	1	4500000	-5811057.63	59	87	61	75	5044	МСК 89 Зона 4 (ЯНАО, 78.05), Надымский район	MSK 89 Zona 1 (YNAO, 78.05) 6 degree	ru;region		
-RUS-MSK89-Zone2	+	66.05	0	1	2500000	-5811057.63	59	87	61	75	5044	МСК 89 Зона 2 (ЯНАО, 66.05), Надымский район	MSK 89 Zona 1 (YNAO, 66.05) 6 degree	ru;region		
+RUS-MSK89-Zone2	+	72.05	0	1	3500000	-5811057.63	59	87	61	75	5044	МСК 89 Зона 3 (ЯНАО, 72.05), Надымский район	MSK 89 Zona 1 (YNAO, 72.05) 6 degree	ru;region		
+RUS-MSK89-Zone3	+	78.05	0	1	4500000	-5811057.63	59	87	61	75	5044	МСК 89 Зона 4 (ЯНАО, 78.05), Надымский район	MSK 89 Zona 1 (YNAO, 78.05) 6 degree	ru;region		
+RUS-MSK89-Zone4	+	66.05	0	1	2500000	-5811057.63	59	87	61	75	5044	МСК 89 Зона 2 (ЯНАО, 66.05), Надымский район	MSK 89 Zona 1 (YNAO, 66.05) 6 degree	ru;region		
+RUS-MSK92-Sevastopol1	+	33	0	1	-18000	-4915000	21	42	44	53	5044	Городская СК Севастополь (Крым)	Crimea, Sevastopol town system	ru;town	https://geodesist.ru/threads/msk-91.62429/#post-954385	
+RUS-MSK92-Sevastopol2	+	33	0	1	-18001.807	-4915002.417	21	42	44	53	5044	Городская СК Севастополь (Крым)	Crimea, Sevastopol town system	ru;town	https://geodesist.ru/threads/msk-91.62429/#post-954431	
 RUS-MSKR-592i	+	74.73333333	0	1	250000	-5912900.57	71	79	28	85	1267	МСКР-592i (Новосибирская область), 3 град	MSKR 592i (Novosibirsk region) 3 degree	ru;region	MAPINFOW	
 RUS-MSKR-593i	+	77.73333333	0	1	250000	-5912900.57	74	82	28	85	1267	МСКР-593i (Новосибирская область), 3 град	MSKR 593i (Novosibirsk region) 3 degree	ru;region	MAPINFOW	
 RUS-MSKR-594	+	81	0	1	250000	-5900000	77	85	28	85	1267	МСКР-594 (Новосибирская область), 3 град	MSKR 594 (Novosibirsk region) 3 degree	ru;region	MAPINFOW	
@@ -624,7 +641,7 @@ UKR-MSK71	+	31.5	0	1	300000	0	21	42	44	53	Ukraine-USK-2000-2	Региональ�
 UKR-MSK73	+	26	0	1	300000	0	21	42	44	53	Ukraine-USK-2000-2	Региональная СК Черновицкая обл. (Украина)	Ukraine, Chernivtsi region system	ua;region	https://github.com/SPoslavskyi/USK2000	
 UKR-MSK74	+	32	0	1	300000	0	21	42	44	53	Ukraine-USK-2000-2	Региональная СК Черниговская обл. (Украина)	Ukraine, Chernihiv region system	ua;region	https://github.com/SPoslavskyi/USK2000	
 UKR-MSK80	+	30.5	0	1	300000	0	21	42	44	53	Ukraine-USK-2000-2	Городская СК Киев (Украина)	Ukraine, Kyiv town system	ua;town	https://github.com/SPoslavskyi/USK2000	
-UKR-MSK85	+	33	0	1	300000	0	21	42	44	53	Ukraine-USK-2000-2	Городская СК Севастополь (Крым)	Crimea, Sevastopol town system	ua;town	https://github.com/SPoslavskyi/USK2000	
+UKR-MSK85-Sevastopol	+	33	0	1	300000	0	21	42	44	53	Ukraine-USK-2000-2	Городская СК Севастополь (Крым)	Crimea, Sevastopol town system	ua;town	https://github.com/SPoslavskyi/USK2000	
 UKR-SK63-ZoneX1		23.5	0.0833333333333333	1	1300000	0	24	43	38	52	1267	Система 1963 года, Украина, 3 градусная зона, район X	SK-1963 Zona X1 (CM-23.5). For Ukraine (EPSG:7818)	ua	epsg.io	
 UKR-SK63-ZoneX2		26.5	0.0833333333333333	1	2300000	0	24	43	38	52	1267	Система 1963 года, Украина, 3 градусная зона, район X	SK-1963 Zona X2 (CM-26.5). For Ukraine (EPSG:7826)	ua	epsg.io	
 UKR-SK63-ZoneX3		29.5	0.0833333333333333	1	3300000	0	24	43	38	52	1267	Система 1963 года, Украина, 3 градусная зона, район X	SK-1963 Zona X3 (CM-29.5). For Ukraine (EPSG:7827)	ua	epsg.io	
@@ -695,23 +712,18 @@ USSR-SK63-K3-Zone1	+	47.766666666667	0	1	1300000	0	41	91	38	58	1267	Систем
 USSR-SK63-K3-Zone2	+	50.766666666667	0	1	2300000	0	41	91	38	58	1267	Система 1963 года, 3 градусная зона, район K2 (EPSG:2939)	SK-1963 Zona K2 (CM-50.76) 3 degree (EPSG:2939)	ussr;kaz	EPSG	
 USSR-SK63-K3-Zone3	+	53.766666666667	0	1	3300000	0	41	91	38	58	1267	Система 1963 года, 3 градусная зона, район K3 (EPSG:2940)	SK-1963 Zona K3 (CM-53.76) 3 degree (EPSG:2940)	ussr;kaz	EPSG	
 USSR-SK63-K3-Zone4	+	56.766666666667	0	1	4300000	0	41	91	38	58	1267	Система 1963 года, 3 градусная зона, район K4 (EPSG:2941)	SK-1963 Zona K4 (CM-56.76) 3 degree (EPSG:2941)	ussr;kaz	EPSG	
-USSR-SK63-L3-Zone1	+	80.48333333333	0	1	1500000	-16586.442	73	117	48	82	1267	Система 1963 года, 3 градусная зона, район L	SK-1963 Zona L1 (CM-80.48) 3 degree	ussr		
-USSR-SK63-L3-Zone2	+	83.48333333333	0	1	2500000	-16586.442	73	117	48	82	1267	Система 1963 года, 3 градусная зона, район L	SK-1963 Zona L2 (CM-83.48) 3 degree	ussr		
-USSR-SK63-L3-Zone3	+	86.48333333333	0	1	3500000	-16586.442	73	117	48	82	1267	Система 1963 года, 3 градусная зона, район L	SK-1963 Zona L3 (CM-86.48) 3 degree	ussr		
-USSR-SK63-L3-Zone4	+	89.48333333333	0	1	4500000	-16586.442	73	117	48	82	1267	Система 1963 года, 3 градусная зона, район L	SK-1963 Zona L4 (CM-89.48) 3 degree	ussr		
-USSR-SK63-L3-Zone5	+	92.48333333333	0	1	5500000	-16586.442	73	117	48	82	1267	Система 1963 года, 3 градусная зона, район L	SK-1963 Zona L5 (CM-92.48) 3 degree	ussr		
+USSR-SK63-L3-Zone1	+	81.516667	0	1	1500000	-16586.442	56	115	36	79	1267	Система 1963 года, 3 градусная зона, район L1 (CM-81.52)	SK-1963 Zona L1 (CM-81.52) 6 degree	ussr		
+USSR-SK63-L3-Zone2	+	87.516667	0	1	2500000	-16586.442	56	115	36	79	1267	Система 1963 года, 3 градусная зона, район L2 (CM-87.52)	SK-1963 Zona L2 (CM-87.52) 6 degree	ussr		
+USSR-SK63-L3-Zone3	+	93.516667	0	1	3500000	-16586.442	56	115	36	79	1267	Система 1963 года, 3 градусная зона, район L3 (CM-93.52)	SK-1963 Zona L3 (CM-93.52) 6 degree	ussr		
+USSR-SK63-L3-Zone4	+	99.516667	0	1	4500000	-16586.442	56	115	36	79	1267	Система 1963 года, 3 градусная зона, район L4 (CM-99.52)	SK-1963 Zona L4 (CM-99.52) 6 degree	ussr		
+USSR-SK63-L3-Zone5	+	105.516667	0	1	5500000	-16586.442	56	115	36	79	1267	Система 1963 года, 3 градусная зона, район L5 (CM-105.52)	SK-1963 Zona L5 (CM-105.52) 6 degree	ussr		
+USSR-SK63-L3-Zone6	+	111.516667	0	1	6500000	-16586.442	56	115	36	79	1267	Система 1963 года, 3 градусная зона, район L6 (CM-111.52) 6 градусов	SK-1963 Zona L6 (CM-111.52) 6 degree	ussr		
 USSR-SK63-L6-Zone1	+	81.51666666666	0	1	1500000	-16586.442	73	117	48	82	1267	Система 1963 года, 6 градусная зона, район L	SK-1963 Zona L1 (CM-81.51) 6 degree	ussr		
-USSR-SK63-L6-Zone1	+	81.516667	0	1	1500000	-16586.442	56	115	36	79	1267	Система 1963 года, 3 градусная зона, район L1 (CM-81.52) 6 градусов	SK-1963 Zona L1 (CM-81.52) 6 degree	ussr		
 USSR-SK63-L6-Zone2	+	87.51666666666	0	1	2500000	-16586.442	73	117	48	82	1267	Система 1963 года, 6 градусная зона, район L	SK-1963 Zona L2 (CM-87.51) 6 degree	ussr		
-USSR-SK63-L6-Zone2	+	87.516667	0	1	2500000	-16586.442	56	115	36	79	1267	Система 1963 года, 3 градусная зона, район L2 (CM-87.52) 6 градусов	SK-1963 Zona L2 (CM-87.52) 6 degree	ussr		
 USSR-SK63-L6-Zone3	+	93.51666666666	0	1	3500000	-16586.442	73	117	48	82	1267	Система 1963 года, 6 градусная зона, район L	SK-1963 Zona L3 (CM-93.51) 6 degree	ussr		
-USSR-SK63-L6-Zone3	+	93.516667	0	1	3500000	-16586.442	56	115	36	79	1267	Система 1963 года, 3 градусная зона, район L3 (CM-93.52) 6 градусов	SK-1963 Zona L3 (CM-93.52) 6 degree	ussr		
 USSR-SK63-L6-Zone4	+	99.51666666666	0	1	4500000	-16586.442	73	117	48	82	1267	Система 1963 года, 6 градусная зона, район L	SK-1963 Zona L4 (CM-99.51) 6 degree	ussr		
-USSR-SK63-L6-Zone4	+	99.516667	0	1	4500000	-16586.442	56	115	36	79	1267	Система 1963 года, 3 градусная зона, район L4 (CM-99.52) 6 градусов	SK-1963 Zona L4 (CM-99.52) 6 degree	ussr		
 USSR-SK63-L6-Zone5	+	105.51666666666	0	1	5500000	-16586.442	73	117	48	82	1267	Система 1963 года, 6 градусная зона, район L	SK-1963 Zona L5 (CM-105.51) 6 degree	ussr		
-USSR-SK63-L6-Zone5	+	105.516667	0	1	5500000	-16586.442	56	115	36	79	1267	Система 1963 года, 3 градусная зона, район L5 (CM-105.52) 6 градусов	SK-1963 Zona L5 (CM-105.52) 6 degree	ussr		
 USSR-SK63-L6-Zone6	+	111.51666666666	0	1	6500000	-16586.442	73	117	48	82	1267	Система 1963 года, 6 градусная зона, район L	SK-1963 Zona L6 (CM-111.51) 6 degree	ussr		
-USSR-SK63-L6-Zone6	+	111.516667	0	1	6500000	-16586.442	56	115	36	79	1267	Система 1963 года, 3 градусная зона, район L6 (CM-111.52) 6 градусов	SK-1963 Zona L6 (CM-111.52) 6 degree	ussr		
 USSR-SK63-M3-Zone1	+	79.466666666677	0	1	1300000	-12900.566	75	92	50	59	1267	Система 1963 года, 3 градусная зона, район M (Барнаульская)	SK-1963 Zona M1 (CM-79.46)	ussr		
 USSR-SK63-M3-Zone2	+	82.466666666677	0	1	2300000	-12900.566	75	92	50	59	1267	Система 1963 года, 3 градусная зона, район M (Барнаульская)	SK-1963 Zona M2 (CM-82.46)	ussr		
 USSR-SK63-M3-Zone3	+	85.466666666677	0	1	3300000	-12900.566	75	92	50	59	1267	Система 1963 года, 3 градусная зона, район M (Барнаульская)	SK-1963 Zona M3 (CM-85.46)	ussr		
@@ -742,7 +754,7 @@ USSR-SK63-S6-Zone7	+	144.45	0	1	7400000	-12900.566	125	180	57	85	1267	Систе
 USSR-SK63-S6-Zone8	+	150.45	0	1	8400000	-12900.566	125	180	57	85	1267	Система 1963 года, 6 градусная зона, район S	SK-1963 Zona S8 (CM-150.45) 6 degree	ussr		
 USSR-SK63-S6-Zone9	+	156.45	0	1	9400000	-12900.566	125	180	57	85	1267	Система 1963 года, 6 градусная зона, район S	SK-1963 Zona S9 (CM-156.45)	ussr		
 USSR-SK63-T3-Zone1	+	37.98333333333	0	1	1300000	-11057.628	35	50	40	51	1267	Система 1963 года, 3 градусная зона, район T	SK-1963 Zona T1 (CM-37.98)	ussr		
-USSR-SK63-T3-Zone2	+	40.98333333333	0	1	2300000	-11057.628	35	50	40	51	1267	Система 1963 года, 3 градусная зона, район T	SK-1963 Zona T2 (CM-40.98)	ussr		
+USSR-SK63-T3-Zone2	+	40.98333333333	0	1	2300000	-11057.628	35	50	40	51	1267	Система 1963 года, 3 градусная зона, район T	SK-1963 Zona T2 (CM-40.98)	ussr;abh		
 USSR-SK63-T3-Zone3	+	43.98333333333	0	1	3300000	-11057.628	35	50	40	51	1267	Система 1963 года, 3 градусная зона, район T	SK-1963 Zona T3 (CM-43.98)	ussr		
 USSR-SK63-T3-Zone4	+	46.98333333333	0	1	4300000	-11057.628	35	50	40	51	1267	Система 1963 года, 3 градусная зона, район T	SK-1963 Zona T4 (CM-46.98)	ussr		
 USSR-SK63-U6-Zone1	+	53.5166666666667	0	1	1300000	-14743.504	49	84	28	49	1267	Система 1963 года, 3 градусная зона, район U	SK-1963 Zona U1 (CM-53.516) 3 degree	ussr		
@@ -762,43 +774,25 @@ USSR-SK63-V3-Zone3	+	55.0333333333333	0	1	3300000	-9414.7	46	72	49	57	1267	Си�
 USSR-SK63-V3-Zone4	+	58.0333333333333	0	1	4300000	-9414.7	46	72	49	57	1267	Система 1963 года, 3 градусная зона, район V	SK-1963 Zona V4 (CM-58.03)	ussr		
 USSR-SK63-V3-Zone5	+	61.0333333333333	0	1	5300000	-9414.7	46	72	49	57	1267	Система 1963 года, 3 градусная зона, район V	SK-1963 Zona V5 (CM-61.03)	ussr		
 USSR-SK63-V3-Zone6	+	64.0333333333333	0	1	6300000	-9414.7	46	72	49	57	1267	Система 1963 года, 3 градусная зона, район V	SK-1963 Zona V6 (CM-64.03)	ussr		
-USSR-SK63-W3-Zone1	+	60.05	0	1	1500000	-11057.63	55	88	54	77	1267	Система 1963 года, 3 градусная зона, район W	SK-1963 W3 Zona 1 (CM-60.05)	ussr		
 USSR-SK63-W3-Zone1	+	60.05	0	1	1500000	-11057.628	55	87	49	76	1267	Система 1963 года, 3 градусная зона, район W1 (CM-60.05)	SK-1963 Zona W1 (CM-60.05) 3 degree	ussr		
-USSR-SK63-W3-Zone10	+	87.05	0	1	10500000	-11057.63	55	88	54	77	1267	Система 1963 года, 3 градусная зона, район W	SK-1963 W3 Zona 10 (CM-87.05)	ussr		
-USSR-SK63-W3-Zone2	+	63.05	0	1	2500000	-11057.63	55	88	54	77	1267	Система 1963 года, 3 градусная зона, район W	SK-1963 W3 Zona 2 (CM-63.05)	ussr		
+USSR-SK63-W3-Zone10	+	87.05	0	1	10500000	-11057.63	55	88	54	77	1267	Система 1963 года, 3 градусная зона, район W10 (CM-87.05)	SK-1963 Zona W10 (CM-87.05) 3 degree	ussr		
 USSR-SK63-W3-Zone2	+	63.05	0	1	2500000	-11057.628	55	87	49	76	1267	Система 1963 года, 3 градусная зона, район W2 (CM-63.05)	SK-1963 Zona W2 (CM-63.05) 3 degree	ussr		
-USSR-SK63-W3-Zone3	+	66.05	0	1	3500000	-11057.63	55	88	54	77	1267	Система 1963 года, 3 градусная зона, район W	SK-1963 W3 Zona 3 (CM-66.05)	ussr		
 USSR-SK63-W3-Zone3	+	66.05	0	1	3500000	-11057.628	55	87	49	76	1267	Система 1963 года, 3 градусная зона, район W3 (CM-66.05)	SK-1963 Zona W3 (CM-66.05) 3 degree	ussr		
-USSR-SK63-W3-Zone4	+	69.05	0	1	4500000	-11057.63	55	88	54	77	1267	Система 1963 года, 3 градусная зона, район W	SK-1963 W3 Zona 4 (CM-69.05)	ussr		
 USSR-SK63-W3-Zone4	+	69.05	0	1	4500000	-11057.628	55	87	49	76	1267	Система 1963 года, 3 градусная зона, район W4 (CM-69.05)	SK-1963 Zona W4 (CM-69.05) 3 degree	ussr		
-USSR-SK63-W3-Zone5	+	72.05	0	1	5500000	-11057.63	55	88	54	77	1267	Система 1963 года, 3 градусная зона, район W	SK-1963 W3 Zona 5 (CM-72.05)	ussr		
 USSR-SK63-W3-Zone5	+	72.05	0	1	5500000	-11057.628	55	87	49	76	1267	Система 1963 года, 3 градусная зона, район W5 (CM-72.05)	SK-1963 Zona W5 (CM-72.05) 3 degree	ussr		
-USSR-SK63-W3-Zone6	+	75.05	0	1	6500000	-11057.63	55	88	54	77	1267	Система 1963 года, 3 градусная зона, район W	SK-1963 W3 Zona 6 (CM-75.05)	ussr		
 USSR-SK63-W3-Zone6	+	75.05	0	1	6500000	-11057.628	55	87	49	76	1267	Система 1963 года, 3 градусная зона, район W6 (CM-75.05)	SK-1963 Zona W6 (CM-75.05) 3 degree	ussr		
-USSR-SK63-W3-Zone7	+	78.05	0	1	7500000	-11057.63	55	88	54	77	1267	Система 1963 года, 3 градусная зона, район W	SK-1963 W3 Zona 7 (CM-78.05)	ussr		
 USSR-SK63-W3-Zone7	+	78.05	0	1	7500000	-11057.628	55	87	49	76	1267	Система 1963 года, 3 градусная зона, район W7 (CM-78.05)	SK-1963 Zona W7 (CM-78.05) 3 degree	ussr		
-USSR-SK63-W3-Zone8	+	81.05	0	1	8500000	-11057.63	55	88	54	77	1267	Система 1963 года, 3 градусная зона, район W	SK-1963 W3 Zona 8 (CM-81.05)	ussr		
 USSR-SK63-W3-Zone8	+	81.05	0	1	8500000	-11057.628	55	87	49	76	1267	Система 1963 года, 3 градусная зона, район W8 (CM-81.05)	SK-1963 Zona W8 (CM-81.05) 3 degree	ussr		
-USSR-SK63-W3-Zone9	+	84.05	0	1	9500000	-11057.63	55	88	54	77	1267	Система 1963 года, 3 градусная зона, район W	SK-1963 W3 Zona 9 (CM-84.05)	ussr		
-USSR-SK63-W6-Zone1	+	60.05	0	1	1500000	-11057.63	55	88	54	77	1267	Система 1963 года, 6 градусная зона, район W	SK-1963 W6 Zona 1 (CM-60.05)	ussr		
+USSR-SK63-W3-Zone9	+	84.05	0	1	9500000	-11057.63	55	88	54	77	1267	Система 1963 года, 3 градусная зона, район W9 (CM-84.05)	SK-1963 Zona W9 (CM-84.05) 3 degree	ussr		
 USSR-SK63-W6-Zone1	+	60.05	0	1	1500000	-11057.628	55	87	49	76	1267	Система 1963 года, 6 градусная зона, район W1 (CM-60.05)	SK-1963 Zona W1 (CM-60.05) 6 degree	ussr		
-USSR-SK63-W6-Zone2	+	66.05	0	1	2500000	-11057.63	55	88	54	77	1267	Система 1963 года, 6 градусная зона, район W	SK-1963 W6 Zona 2 (CM-66.05)	ussr		
 USSR-SK63-W6-Zone2	+	66.05	0	1	2500000	-11057.628	55	87	49	76	1267	Система 1963 года, 6 градусная зона, район W2 (CM-66.05)	SK-1963 Zona W2 (CM-66.05) 6 degree	ussr		
-USSR-SK63-W6-Zone3	+	72.05	0	1	3500000	-11057.63	55	88	54	77	1267	Система 1963 года, 6 градусная зона, район W	SK-1963 W6 Zona 3 (CM-72.05)	ussr		
 USSR-SK63-W6-Zone3	+	72.05	0	1	3500000	-11057.628	55	87	49	76	1267	Система 1963 года, 6 градусная зона, район W3 (CM-72.05)	SK-1963 Zona W3 (CM-72.05) 6 degree	ussr		
-USSR-SK63-W6-Zone4	+	78.05	0	1	4500000	-11057.63	55	88	54	77	1267	Система 1963 года, 6 градусная зона, район W	SK-1963 W6 Zona 4 (CM-78.05)	ussr		
 USSR-SK63-W6-Zone4	+	78.05	0	1	4500000	-11057.628	55	87	49	76	1267	Система 1963 года, 6 градусная зона, район W4 (CM-78.05)	SK-1963 Zona W4 (CM-78.05) 6 degree	ussr		
-USSR-SK63-X3-Zone1	+	23.5	0	1	1300000	-9214.69	24	43	38	52	1267	Система 1963 года, 3 градусная зона, район X	SK-1963 Zona X1 (CM-23.5)	ussr		
 USSR-SK63-X3-Zone1	+	23.5	0	1	1300000	-9414.7	24	43	38	52	1267	Система 1963 года, 3 градусная зона, район X, Крым	SK-1963 Zona X1 (CM-23.5), Crimea	ussr;ru		Используются в Крыму
-USSR-SK63-X3-Zone2	+	26.5	0	1	2300000	-9214.69	24	43	38	52	1267	Система 1963 года, 3 градусная зона, район X	SK-1963 Zona X2 (CM-26.5)	ussr		
 USSR-SK63-X3-Zone2	+	26.5	0	1	2300000	-9414.7	24	43	38	52	1267	Система 1963 года, 3 градусная зона, район X, Крым	SK-1963 Zona X2 (CM-26.5), Crimea	ussr;ru		Используются в Крыму
-USSR-SK63-X3-Zone3	+	29.5	0	1	3300000	-9214.69	24	43	38	52	1267	Система 1963 года, 3 градусная зона, район X	SK-1963 Zona X3 (CM-29.5)	ussr		
 USSR-SK63-X3-Zone3	+	29.5	0	1	3300000	-9414.7	24	43	38	52	1267	Система 1963 года, 3 градусная зона, район X, Крым	SK-1963 Zona X3 (CM-29.5), Crimea	ussr;ru		Используются в Крыму
-USSR-SK63-X3-Zone4	+	32.5	0	1	4300000	-9214.69	24	43	38	52	1267	Система 1963 года, 3 градусная зона, район X	SK-1963 Zona X4 (CM-32.5) Republic of Crimea	ussr;region		
 USSR-SK63-X3-Zone4	+	32.5	0	1	4300000	-9414.7	24	43	38	52	1267	Система 1963 года, 3 градусная зона, район X, Крым	SK-1963 Zona X4 (CM-32.5), Crimea	ussr;ru		Используются в Крыму
-USSR-SK63-X3-Zone5	+	35.5	0	1	5300000	-9214.69	24	43	38	52	1267	Система 1963 года, 3 градусная зона, район X	SK-1963 Zona X5 (CM-35.5) Republic of Crimea	ussr;region		
 USSR-SK63-X3-Zone5	+	35.5	0	1	5300000	-9414.7	24	43	38	52	1267	Система 1963 года, 3 градусная зона, район X, Крым	SK-1963 Zona X5 (CM-35.5), Crimea	ussr;ru		Используются в Крыму
-USSR-SK63-X3-Zone6	+	38.5	0	1	6300000	-9214.69	24	43	38	52	1267	Система 1963 года, 3 градусная зона, район X	SK-1963 Zona X6 (CM-38.5)	ussr		
 USSR-SK63-X3-Zone6	+	38.5	0	1	6300000	-9414.7	24	43	38	52	1267	Система 1963 года, 3 градусная зона, район X, Крым	SK-1963 Zona X6 (CM-38.5), Crimea	ussr;ru		Используются в Крыму
 USSR-SK63-Y3-Zone1	+	49.0166666667	0	1	1250000	-18429.376	45	53	28	85	1267	Система 1963 года, 3 градусная зона, район Y	SK-1963 Zona Y1 (CM-49.02) 3 degree	ussr	MAPINFOW	
 USSR-SK63-Y3-Zone2	+	52.0166666667	0	1	2250000	-18429.376	48	56	28	85	1267	Система 1963 года, 3 градусная зона, район Y	SK-1963 Zona Y2 (CM-52.02) 3 degree	ussr	MAPINFOW	
