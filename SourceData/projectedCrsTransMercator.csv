@@ -240,10 +240,10 @@ RUS-MSK21-Zone2	+	50.55	0	1	2250000	-5814743.504	45	50	54	57	5044	MSK-21 Чув�
 RUS-MSK22-Zone1	+	79.46666666666	0	1	1300000	-5312900.56	71	92	48	59	5044	MSK-22 Алтайский край	Altay krai MSK-22 Zona 1	ru;region		
 RUS-MSK22-Zone2	+	82.46666666666	0	1	2300000	-5312900.56	71	92	48	59	5044	MSK-22 Алтайский край	Altay krai MSK-22 Zona 2	ru;region		
 RUS-MSK22-Zone3	+	85.46666666666	0	1	3300000	-5312900.56	71	92	48	59	5044	MSK-22 Алтайский край	Altay krai MSK-22 Zona 3	ru;region		
-RUS-MSK23-Krasnodr1	+	39	0	1	21800	-4974500	38	40	44	46	5044	Городская СК Краснодар (Краснодарский край) вар 1	Krasnodarsky region, Krasnodar town system var 1	ru;town	MAPINFOW	
-RUS-MSK23-Krasnodr2	+	39	0	1	21800.013	-4974499.82	38	40	44	46	5044	Городская СК Краснодар (Краснодарский край) вар 2	Krasnodarsky region, Krasnodar town system var 2	ru;town	MAPINFOW	
-RUS-MSK23-Krasnodr3	+	39	0	1	21799.995	-4974499.819	38	40	44	46	5044	Городская СК Краснодар (Краснодарский край) вар 2	Krasnodarsky region, Krasnodar town system var 2	ru;town	MAPINFOW	
-RUS-MSK23-Novoross	+	39	0	1	117000	-4945000	37	38	44	45	5044	Городская СК Новороссийск (Краснодарский край)	Krasnodarsky region, Novorossiysk town system	ru;town	MAPINFOW	
+RUS-MSK23-Krasnodar1	+	39	0	1	21800	-4974500	38	40	44	46	5044	Городская СК Краснодар (Краснодарский край) вар 1	Krasnodarsky region, Krasnodar town system var 1	ru;town	MAPINFOW	
+RUS-MSK23-Krasnodar2	+	39	0	1	21800.013	-4974499.82	38	40	44	46	5044	Городская СК Краснодар (Краснодарский край) вар 2	Krasnodarsky region, Krasnodar town system var 2	ru;town	MAPINFOW	
+RUS-MSK23-Krasnodar3	+	39	0	1	21799.995	-4974499.819	38	40	44	46	5044	Городская СК Краснодар (Краснодарский край) вар 2	Krasnodarsky region, Krasnodar town system var 2	ru;town	MAPINFOW	
+RUS-MSK23-Novorossiysk	+	39	0	1	117000	-4945000	37	38	44	45	5044	Городская СК Новороссийск (Краснодарский край)	Krasnodarsky region, Novorossiysk town system	ru;town	MAPINFOW	
 RUS-MSK23-Sochi1	+	39	0	1	7.995	-4784572.808	39	40	43	44	5044	Городская СК Сочи (Краснодарский край) вар 1	Krasnodarsky region, Sochi town system var 1	ru;town	MAPINFOW	
 RUS-MSK23-Sochi2	+	39	0	1	4.295	-4784578.384	39	40	43	44	5044	Городская СК Сочи (Краснодарский край) вар 2	Krasnodarsky region, Sochi town system var 2	ru;town	MAPINFOW	
 RUS-MSK23-Zone1	+	37.98333333333	0	1	1300000	-4511057.628	37	45	42	48	5044	MSK-23 Краснодарский край	Krasnodar krai MSK-23 Zona 1	ru;region		
@@ -258,7 +258,11 @@ RUS-MSK24-Cs167	+	93	0	1	106797.8	-5578022.5	67	129	43	83	5044	Районная 
 RUS-MSK24-Cs168	+	96	0	1	108285.2	-5503868.6	67	129	43	83	5044	Районная СК 168 (Красноярский край) 	Krasnoyarsky region, district system 168	ru;region	MAPINFOW	
 RUS-MSK24-Cs169	+	99	0	1	117308.6	-5503868.6	67	129	43	83	5044	Районная СК 169 (Красноярский край) 	Krasnoyarsky region, district system 169	ru;region	MAPINFOW	
 RUS-MSK24-Cs170	+	102	0	1	90338.9	-6357146.1	67	129	43	83	5044	Районная СК 170 (Красноярский край), Кодинский район	Krasnoyarsky region, district system 170	ru;region	https://geodesist.ru/threads/parametry-sk-166-krasnojarskij-kraj-nuzhny.44231/page-2#post-624687	
-RUS-MSK24-Krasnoyar	+	93	0	1	54304.47	-6196680.59	92	94	55	57	5044	Городская СК Красноярск (Красноярский край) 	Krasnoyarsky region, Krasnoyarsk town system	ru;town	MAPINFOW	
+RUS-MSK24-Cs171	+	105	0	1	87870.5	-6468522.7	67	129	43	83	5044	Районная СК 171 (Красноярский край)	Krasnoyarsky region, district system 171	ru;region	https://geodesist.ru/threads/parametry-sk-166-krasnojarskij-kraj-nuzhny.44231/page-5#post-961960	
+RUS-MSK24-Cs172	+	108	0	1	73593.7	-6877050.9	67	129	43	83	5044	Районная СК 172 (Красноярский край)	Krasnoyarsky region, district system 172	ru;region	https://geodesist.ru/threads/parametry-sk-166-krasnojarskij-kraj-nuzhny.44231/page-5#post-961960	
+RUS-MSK24-Cs173	+	111	0	1	61954.6	-7546013.8	67	129	43	83	5044	Районная СК 173 (Красноярский край)	Krasnoyarsky region, district system 173	ru;region	https://geodesist.ru/threads/parametry-sk-166-krasnojarskij-kraj-nuzhny.44231/page-5#post-961960	
+RUS-MSK24-Cs174	+	114	0	1	50000	-8150000	67	129	43	83	5044	Районная СК 174 (Красноярский край)	Krasnoyarsky region, district system 174	ru;region	https://geodesist.ru/threads/parametry-sk-166-krasnojarskij-kraj-nuzhny.44231/page-5#post-961960	
+RUS-MSK24-Krasnoyarsk	+	93	0	1	54304.47	-6196680.59	92	94	55	57	5044	Городская СК Красноярск (Красноярский край) 	Krasnoyarsky region, Krasnoyarsk town system	ru;town	MAPINFOW	
 RUS-MSK24-Zone1	+	81.51666666666	0	1	1500000	-5416586.442	67	129	43	83	5044	MSK-24 Красноярский край	Krasnoyarsk krai MSK-24 Zona 1	ru;region		
 RUS-MSK24-Zone2	+	87.51666666666	0	1	2500000	-5416586.442	67	129	43	83	5044	MSK-24 Красноярский край	Krasnoyarsk krai MSK-24 Zona 2	ru;region		
 RUS-MSK24-Zone3	+	93.51666666666	0	1	3500000	-5416586.442	67	129	43	83	5044	MSK-24 Красноярский край	Krasnoyarsk krai MSK-24 Zona 3	ru;region		
@@ -322,6 +326,7 @@ RUS-MSK40-Zone1	+	35.48333333333	0	1	1250000	-5612900.566	33	38	52	56	5044	MSK-4
 RUS-MSK41-Zone1	+	158.46666666667	0	1	1400000	-5316586.442	154	177	50	66	5044	MSK-41 Камчатский край	Kamchatka krai MSK-41 Zona 1 (6 gradus zona)	ru;region		
 RUS-MSK41-Zone2	+	164.46666666667	0	1	2400000	-5316586.442	154	177	50	66	5044	MSK-41 Камчатский край	Kamchatka krai MSK-41 Zona 2 (6 gradus zona)	ru;region		
 RUS-MSK41-Zone3	+	170.46666666667	0	1	3400000	-5316586.442	154	177	50	66	5044	MSK-41 Камчатский край	Kamchatka krai MSK-41 Zona 3 (6 gradus zona)	ru;region		
+RUS-MSK42-Mezhdurechensk	+	87	0	1	-55999.6	-5940886.91	84	91	52	58	5044	Городская СК г. Междуреченск (Кемеровсая обл)	Kemerovo region, Mezhdurechensk town system	ru;town	https://geodesist.ru/threads/mestnye-sistemy-koordinat-gorodov.12174/page-4#post-811202	
 RUS-MSK42-Zone1	+	85.46666666666	0	1	1300000	-5512900.56	84	91	52	58	5044	MSK-42 Кемеровская область	Kemerovo region MSK-42 Zona 1	ru;region		
 RUS-MSK42-Zone2	+	88.46666666666	0	1	2300000	-5512900.56	84	91	52	58	5044	MSK-42 Кемеровская область	Kemerovo region MSK-42 Zona 2	ru;region		
 RUS-MSK43-Zone1	+	47.55	0	1	1250000	-5914743.504	45	55	55	62	5044	MSK-43 Кировская область	Kirov region MSK-43 Zona 1	ru;region		
@@ -348,7 +353,9 @@ RUS-MSK50-Zone1	+	35.48333333333	0	1	1250000	-5712900.566	34	41	53	58	5043	MSK-5
 RUS-MSK50-Zone2	+	38.48333333333	0	1	2250000	-5712900.566	34	41	53	58	5043	MSK-50 Москва и Московская область	Moscow region MSK-50 Zona 2	ru;region		
 RUS-MSK51-Zone1	+	32.03333333333	0	1	1400000	-7011057.628	27	45	65	71	5044	MSK-51 Мурманская область	Murmansk region MSK-51 Zona 1 (6 gradus zona)	ru;region		
 RUS-MSK51-Zone2	+	38.03333333333	0	1	2400000	-7011057.628	27	45	65	71	5044	MSK-51 Мурманская область	Murmansk region MSK-51 Zona 2 (6 gradus zona)	ru;region		
-RUS-MSK52-NiznNovg		43.9685206254641	0	1.00000682993	-1130.28243212	-6242503.53211	41	49	54	59	5043	Городская СК Нижний Новгород	Nizhny Novgorod town system	ru;town		
+RUS-MSK52-NiznNovgorod1		43.9685206254641	0	1.00000682993	-1130.28243212	-6242503.53211	41	49	54	59	5043	Городская СК Нижний Новгород вар 1 (конф. Преобраз)	Nizhny Novgorod town system var 1 (conformal)	ru;town		
+RUS-MSK52-NiznNovgorod2	+	43.961111111	0	1	-1589.012	-6242459.578	41	49	54	59	5043	Городская СК Нижний Новгород вар 2	Nizhny Novgorod town system var 2	ru;town	https://geodesist.ru/threads/kljuch-sk-nizhnij-novgorod.91499/#post-1067802	
+RUS-MSK52-NiznNovgorod3	+	43.968134	0	1	-1154.2731	-6242460.9505	41	49	54	59	5043	Городская СК Нижний Новгород вар 3	Nizhny Novgorod town system var 3	ru;town	https://geodesist.ru/threads/kljuch-sk-nizhnij-novgorod.91499/#post-1067804	
 RUS-MSK52-Zone1	+	41.55	0	1	1250000	-5714743.504	41	49	54	59	5043	MSK-52 Нижегородская область	Nizhny Novgorod region MSK-52 Zona 1	ru;region		
 RUS-MSK52-Zone2	+	44.55	0	1	2250000	-5714743.504	41	49	54	59	5043	MSK-52 Нижегородская область	Nizhny Novgorod region MSK-52 Zona 2	ru;region		
 RUS-MSK52-Zone3	+	47.55	0	1	3250000	-5714743.504	41	49	54	59	5043	MSK-52 Нижегородская область	Nizhny Novgorod region MSK-52 Zona 3	ru;region		
@@ -381,7 +388,8 @@ RUS-MSK59-Berezniki1	+	57	0	1	387632	-5957156	56	58	59	60	5044	Городска�
 RUS-MSK59-Berezniki2	+	57	0	1	20154.99	-6475239.78	56	58	59	60	5044	Городская СК Березники (Пермский край)	Permsky region, Berezniki town system	ru;town	https://geodesist.ru/threads/sistema-koordinat-g-berezniki.93297/#post-1094997	
 RUS-MSK59-Districts	+	57	0	1	387632	-5957156	51	61	55	62	5044	Районная СК Пермской области (Пермский край)	Permsky region, districts CS	ru;town	MAPINFOW	Возможна ошибка в формулировке, перепутаны масштаб и широта
 RUS-MSK59-Gornozavod		57	0	0.999969	-64000	6458000	57	60	57	60	5044	Городская СК г.Горнозаводск (Пермский край)	Permsky region, Gornozavodsk town system	ru;town	MAPINFOW	
-RUS-MSK59-Perm		56.11612948	0	0.999998846	-7081.064	-6433172.3851	51	61	55	62	5044	Городская СК Пермь	Perm town system	ru;town		
+RUS-MSK59-Perm		56.11612948	0	0.999998846	-7081.064	-6433172.3851	51	61	55	62	5044	Городская СК Пермь	Permsky region, Perm town system	ru;town	Якобы официальная информация от администрации города https://geodesist.ru/threads/sistema-koordinat-permskogo-kraja-msk-59.11612/page-8#post-943770	
+RUS-MSK59-Solikamsk	+	57	0	1	37000	6572000	56	58	59	60	5044	Городская СК Соликамск	Permsky region, Solikamsk town system	ru;town	https://geodesist.ru/threads/sistema-koordinat-permskogo-kraja-msk-59.11612/page-3#post-369504	
 RUS-MSK59-Zone1	+	53.55	0	1	1250000	-5914743.504	51	61	55	62	5044	MSK-59 Пермский край	Perm krai MSK-59 Zona 1	ru;region		
 RUS-MSK59-Zone2	+	56.55	0	1	2250000	-5914743.504	51	61	55	62	5044	MSK-59 Пермский край	Perm krai MSK-59 Zona 2	ru;region		
 RUS-MSK59-Zone3	+	59.55	0	1	3250000	-5914743.504	51	61	55	62	5044	MSK-59 Пермский край	Perm krai MSK-59 Zona 3	ru;region		
@@ -555,6 +563,7 @@ RUS-MSK76-Zone1	+	38.55	0	1	1250000	-6014743.504	37	42	56	59	5044	MSK-76 Яро�
 RUS-MSK76-Zone2	+	41.55	0	1	2250000	-6014743.504	37	42	56	59	5044	MSK-76 Ярославская область	Yaroslavl region MSK-76 Zona 2	ru;region		
 RUS-MSK83-Beloyarsk	+	69	0	1	50195.78	-7408592.13	67	69	66	68	5044	Городская СК Белоярск (ЯНАО)	YNAO region, Beloyarsk town system	ru;town	MAPINFOW	
 RUS-MSK83-Chapayevs	+	69	0	1	59204.5	-7369506.82	67	69	66	67	5044	Городская СК пос. Чапаевск (ЯНАО)	YNAO region, Chapayevsk town system	ru;town	MAPINFOW	
+RUS-MSK83-Harp	+	66.05	0	1	14192.31	-7369506.82	65	67	66	68	5044	Городская СК пос. Харп (ЯНАО)	YNAO region, Harp town system	ru;town	https://geodesist.ru/threads/sistema-koordinat-sk-63-mapinfow-prj.18317/page-6#post-1040450	
 RUS-MSK83-Katravozh	+	66	0	1	7227.65	-7346527.15	65	67	66	67	5044	Городская СК Катравож (ЯНАО)	YNAO region, Katravozh town system	ru;town	MAPINFOW	
 RUS-MSK83-Khalaspug	+	69	0	1	75272.42	-7394943.02	67	68	66	67	5044	Городская СК Халасьпугор (ЯНАО)	YNAO region, Khalaspugor town system	ru;town	MAPINFOW	
 RUS-MSK83-Korotchaev	+	78.05	0	1	50000	-7261057.63	77	79	65	67	5044	Городская СК Коротчаево (ЯНАО)	YNAO region, Korotchaevo town system	ru;town	MAPINFOW	
@@ -600,9 +609,9 @@ RUS-MSK88-Lenskiy	+	111	0	1	9500000	0	103	167	54	78	5044	Районная СК �
 RUS-MSK88-Mirninskiy	+	111	0	1	500000.003	0	103	167	54	78	5044	Районная СК Мирнинский р-н, респ. Саха (Якутия)	Yakutia, Mirninskiy district system	ru;region	Геодезист.ру, https://geodesist.ru/threads/msk-88.25625/page-7#post-895381	
 RUS-MSK88-Neryungri	+	126	0	1	500000	115024	103	167	54	78	5044	Районная СК Нерюнгри, респ. Саха (Якутия)	Yakutia, Neryungri district system	ru;region	Геодезист.ру, https://geodesist.ru/threads/msk-88.25625/page-2#post-589175	
 RUS-MSK89-Zone1	+	60.05	0	1	1500000	-5811057.63	59	87	61	75	5044	МСК 89 Зона 1 (ЯНАО, 60.05), Надымский район	MSK 89 Zona 1 (YNAO, 60.05) 6 degree	ru;region		
-RUS-MSK89-Zone2	+	72.05	0	1	3500000	-5811057.63	59	87	61	75	5044	МСК 89 Зона 3 (ЯНАО, 72.05), Надымский район	MSK 89 Zona 1 (YNAO, 72.05) 6 degree	ru;region		
-RUS-MSK89-Zone3	+	78.05	0	1	4500000	-5811057.63	59	87	61	75	5044	МСК 89 Зона 4 (ЯНАО, 78.05), Надымский район	MSK 89 Zona 1 (YNAO, 78.05) 6 degree	ru;region		
-RUS-MSK89-Zone4	+	66.05	0	1	2500000	-5811057.63	59	87	61	75	5044	МСК 89 Зона 2 (ЯНАО, 66.05), Надымский район	MSK 89 Zona 1 (YNAO, 66.05) 6 degree	ru;region		
+RUS-MSK89-Zone2	+	66.05	0	1	2500000	-5811057.63	59	87	61	75	5044	МСК 89 Зона 2 (ЯНАО, 72.05), Надымский район	MSK 89 Zona 2 (YNAO, 72.05) 6 degree	ru;region		
+RUS-MSK89-Zone3	+	72.05	0	1	3500000	-5811057.63	59	87	61	75	5044	МСК 89 Зона 3 (ЯНАО, 78.05), Надымский район	MSK 89 Zona 3 (YNAO, 78.05) 6 degree	ru;region		
+RUS-MSK89-Zone4	+	78.05	0	1	4500000	-5811057.63	59	87	61	75	5044	МСК 89 Зона 4 (ЯНАО, 66.05), Надымский район	MSK 89 Zona 4 (YNAO, 66.05) 6 degree	ru;region		
 RUS-MSK92-Sevastopol1	+	33	0	1	-18000	-4915000	21	42	44	53	5044	Городская СК Севастополь (Крым)	Crimea, Sevastopol town system	ru;town	https://geodesist.ru/threads/msk-91.62429/#post-954385	
 RUS-MSK92-Sevastopol2	+	33	0	1	-18001.807	-4915002.417	21	42	44	53	5044	Городская СК Севастополь (Крым)	Crimea, Sevastopol town system	ru;town	https://geodesist.ru/threads/msk-91.62429/#post-954431	
 RUS-MSKR-592i	+	74.73333333	0	1	250000	-5912900.57	71	79	28	85	1267	МСКР-592i (Новосибирская область), 3 град	MSKR 592i (Novosibirsk region) 3 degree	ru;region	MAPINFOW	
