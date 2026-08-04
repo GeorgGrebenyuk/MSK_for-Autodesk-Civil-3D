@@ -1,0 +1,25 @@
++	СК МСК88  https://geodesist.ru/threads/msk-88.25625/page-2#post-589175, https://geodesist.ru/threads/msk-88.25625/page-3#post-622744 
++	СК 88 Мирнинский район 8,1001,7,111,0,1,500000.003,0 https://geodesist.ru/threads/msk-88.25625/page-7#post-895381
++	СК 88 Ленский район 8, 1001, 7, 111, 0, 1, 9500000, 0  https://geodesist.ru/threads/msk-88.25625/page-8#post-966179
+	МСК г. Вуктыл Республика Коми (МСК 11 - 5, aka МСК17) https://geodesist.ru/threads/vuktyl-respublika-komi.71773/#post-820479
++	п. Коротчаево ЯМАЛ пересчитать https://geodesist.ru/threads/sistema-koordinat-jamala.42481/#post-984394 + "--- Местная система координат пгт. Коротчаево Уралгеодезия ---" "GK (Korotchaevo)", 8, 1001, 7, 78.05, 0, 1.0, 50000, -7261057.63 https://geodesist.ru/threads/sistema-koordinat-jamala.42481/page-2#post-984494
++	Южно-Сахалинск https://geodesist.ru/threads/parametry-msk-juzhno-saxalinska.27981/page-2#post-588907, !!! https://geodesist.ru/threads/parametry-msk-juzhno-saxalinska.27981/page-3#post-1085287
+	СК63 зона 4 КРЫМ https://geodesist.ru/threads/zakaz-punktov-i-kart-v-krymu.26614/page-38#post-925534
+	МСК-65 Ногликский район https://gis-lab.info/forum/viewtopic.php?f=34&p=184476#p184476, https://geodesist.ru/threads/sistema-koordinat-noglikskogo-rajona-o-saxalin.55395/#post-1095410
+	МСК-65 Охинский район https://geodesist.ru/threads/parametry-gorodskoj-okrug-oxinskij.69849/#post-1095191, https://gis-lab.info/forum/viewtopic.php?f=34&t=28595&view=unread#p184437
+	МСК-55 Омск город https://geodesist.ru/threads/msk-g-omsk.88879/#post-1028623, https://geodesist.ru/threads/msk-g-omsk.88879/#post-1093896
+	МСК-70 Томск https://geodesist.ru/threads/mestnaja-sk-g-tomsk.93057/#post-1092129
+	+п. Харп https://geodesist.ru/threads/sistema-koordinat-sk-63-mapinfow-prj.18317/page-6#post-1040450
+	СК-№184 (г. Норильк), которая образована от СК-95 (Зона 15), либо строительная Кайеркан https://geodesist.ru/threads/isxodnye-punkty-norilsk-valjok-dudinka.88339/
+
+
+СТОП
+https://geodesist.ru/forums/isxodnye-dannye.61/page-15
+Местная система координат 104 г. Подольск Московской области.
+
+
+--- СК 63 Найти параметры районов B, H ----
+Городские СК Казахствана https://adilet.zan.kz/rus/docs/G24IPM00520#z13
+Абхазия https://geodesist.ru/threads/druzhestvennaja-respublika-abxazija.55211/
+Как с геобриджа тырить https://geodesist.ru/threads/mestnye-sistemy-koordinat-gorodov.12174/page-6#post-964691
+---
