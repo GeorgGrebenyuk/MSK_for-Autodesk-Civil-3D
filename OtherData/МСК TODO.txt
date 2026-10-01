@@ -11,15 +11,43 @@
 	МСК-70 Томск https://geodesist.ru/threads/mestnaja-sk-g-tomsk.93057/#post-1092129
 	+п. Харп https://geodesist.ru/threads/sistema-koordinat-sk-63-mapinfow-prj.18317/page-6#post-1040450
 	СК-№184 (г. Норильк), которая образована от СК-95 (Зона 15), либо строительная Кайеркан https://geodesist.ru/threads/isxodnye-punkty-norilsk-valjok-dudinka.88339/
+	г. Элиста, где-то там https://geodesist.ru/threads/koordinaty-kalmykija.59473/page-3
+	г. Подольск - пересчитать из чего-то https://geodesist.ru/threads/mestnaja-sistema-koordinat-104-g-podolsk-moskovskoj-oblasti.90898/#post-1058967
+	г. Тверь - по 2 точкам принять сдвиг и угол поворота, и по нему TODO нагенерить и посчитать https://geodesist.ru/threads/sistema-koordinat.90503/
++	Курганская область, Кетовский район " ск42 11 зона со смещением на юг 5 889 000 и на запад 11 123 000" https://geodesist.ru/threads/nuzhny-parametry-msk-kurganskoj-obl.49339/#post-821234 "СК МСТ (Кетовский)", 8, 1001, 7, 63, 0, 1, 377000, -5889000 
+	г. Псков https://geodesist.ru/threads/pskov-chto-za-sistema-koordinat.89973/ - найти материалы
+	г. Архангельск, найти ешё https://geodesist.ru/threads/parametry-goroda-arxangelska.73722/, + https://geodesist.ru/threads/punkty-ggs-arxangelsk.78203/#post-890212
+	Сахалин, местная Холмск - пересчитать в обычный вид https://geodesist.ru/threads/saxalin-parametry-mestnoj-sk-goroda-xolmsk.88694/
+	г. Махачкала - пересчитать из https://geodesist.ru/threads/msk-05_95-sk-g-maxachkaly.26194/#post-375772
+	Курильские острова каждый имеет свою СК https://geodesist.ru/threads/nuzhna-pomosch-po-kurilskim-ostrovam.80058/#post-904654
+	г. Дзержинск (отменена в 2019) https://geodesist.ru/threads/nuzhny-koordinaty-punktov-nizhegorodskaja-oblast.87751/#post-1010077
+	г. Воркута - посчитать https://geodesist.ru/threads/msk-g-vorkuta-parametry.85788/
+	г. Комсомольск, Ивановская обл. - найти https://geodesist.ru/threads/sistema-koordinat-37-u-038-g-komsomolsk-ivanovskaja-obl.87223/
+	Балаковский район, Саратовская обл. - пересчитать из https://geodesist.ru/threads/parametry-perexoda-balakovskij-rajon-saratovskoj-oblasti.35786/page-2#post-979653 (второй вариант районной СК)
+	г. Новокубышевск - найти https://geodesist.ru/threads/parametry-perexoda-na-msk-g-novokubyshevska.85612/
+	МСК-150, сделать с польз. датумом из https://geodesist.ru/threads/msk-150.18986/page-6#post-791980
+	Высокоточная координатная система РЖД - найти материалы https://geodesist.ru/threads/pereschet-iz-msk-regiona-v-vysokotochnuju-koordinatnuju-sistemu-oao-rzhd.84796/
+	г. Ставрополь-с. Шпаковское СК - найти https://geodesist.ru/threads/sistema-koordinat-v-stavropole.80025/
+	г. Усинск, Коми - найти https://geodesist.ru/threads/punkty-usinsk-respublika-komi.83973/
+	МСК 161 Абакан - найти https://geodesist.ru/threads/parametry-perexoda-msk-161.78079/
+	г. Омск - найти https://geodesist.ru/threads/nuzhna-pomosch-po-msk-goroda-omska.80157/
+	МСК-09 найти версию от СК95
+	г. Екатеринбург добавить вторую на АФФ-основе https://geodesist.ru/threads/pomogite-pereschitat-koordinaty-iz-msk-66-v-sk-g-ekaterinburga.38181/#post-450897
+	Ногинск или Ногинский район, Московская область - https://geodesist.ru/threads/perevod-koordinat.76400/
+	Карелия, Кемский район до 2010г - пересчитать https://geodesist.ru/threads/perevod-iz-mestnoj-sk-kemskogo-rajona-karelii-v-msk-10.20230/
+	г. Калуга - найти https://geodesist.ru/threads/g-kaluga-mestnaja-sistema-koordinat-perexod-v-msk40.55450/
+
 
 
 СТОП
-https://geodesist.ru/forums/isxodnye-dannye.61/page-15
-Местная система координат 104 г. Подольск Московской области.
+https://geodesist.ru/forums/isxodnye-dannye.61/page46
+Новый Порт, ЯНАО
 
 
 --- СК 63 Найти параметры районов B, H ----
-Городские СК Казахствана https://adilet.zan.kz/rus/docs/G24IPM00520#z13
+Городские СК Казахствана https://base.spinform.ru/show_doc.fwx?rgn=161839
 Абхазия https://geodesist.ru/threads/druzhestvennaja-respublika-abxazija.55211/
 Как с геобриджа тырить https://geodesist.ru/threads/mestnye-sistemy-koordinat-gorodov.12174/page-6#post-964691
 ---
+
+291 766.49‬
